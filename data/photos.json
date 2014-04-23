@@ -1,5 +1,1223 @@
 {
   "photos": [
-  
+    {
+      "trail_name": "Adam Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 391
+    },
+    {
+      "trail_name": "Akron Northside Connector to the Towpath Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 921
+    },
+    {
+      "trail_name": "Albermarle Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 385
+    },
+    {
+      "trail_name": "Alder Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 390
+    },
+    {
+      "trail_name": "Alexander Road to Egbert Picnic Area Bridle Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": ,
+      "trail_id": 807
+    },
+    {
+      "trail_name": "Alexander Road to Egbert Picnic Area Buckeye Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 814
+    },
+    {
+      "trail_name": "Alexander Road to Egbert Picnic Area Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 813
+    },
+    {
+      "trail_name": "Armington Cross Country Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 827
+    },
+    {
+      "trail_name": "Bedford Reservation Bridle Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 805
+    },
+    {
+      "trail_name": "Big Bend Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 418
+    },
+    {
+      "trail_name": "Bike & Hike Alexander Road to SR 82 North",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 794
+    },
+    {
+      "trail_name": "Bike & Hike Bike & Hike Trail Boston Mills Road Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 799
+    },
+    {
+      "trail_name": "Bike & Hike Boston Mills Road to SR 303",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 800
+    },
+    {
+      "trail_name": "Bike & Hike Brandywine Falls to Boston Mills Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 798
+    },
+    {
+      "trail_name": "Bike & Hike Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 365
+    },
+    {
+      "trail_name": "Bike & Hike Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 804
+    },
+    {
+      "trail_name": "Bike & Hike SR 82 South to Brandywine Falls",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 795
+    },
+    {
+      "trail_name": "Bike & Hike Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 364
+    },
+    {
+      "trail_name": "Bike & Hike Trail Brandywine Falls Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 797
+    },
+    {
+      "trail_name": "Bike & Hike Trail Connector at SR 303",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 801
+    },
+    {
+      "trail_name": "Bike & Hike Trail (NPS)",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 830
+    },
+    {
+      "trail_name": "Blue Hen Falls Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 831
+    },
+    {
+      "trail_name": "Blue Hen Falls Trail Shared Buckeye Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 832
+    },
+    {
+      "trail_name": "Boston Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 833
+    },
+    {
+      "trail_name": "Boston to Pine Lane Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 907
+    },
+    {
+      "trail_name": "Boston to Pine Lane Towpath Buckeye Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 888
+    },
+    {
+      "trail_name": "Boston to Pine Lane Towpath Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 887
+    },
+    {
+      "trail_name": "Brandywine Falls Boardwalk",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 828
+    },
+    {
+      "trail_name": "Brandywine Gorge Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 829
+    },
+    {
+      "trail_name": "Brandywine Gorge Trail and Bike & Hike Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 796
+    },
+    {
+      "trail_name": "Bridle Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 414
+    },
+    {
+      "trail_name": "Buckeye Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 366
+    },
+    {
+      "trail_name": "Buckeye Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 812
+    },
+    {
+      "trail_name": "Buckeye Trail Boston Store to Pine Lane",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 837
+    },
+    {
+      "trail_name": "Buckeye Trail Connector from Pine Lane to Towpath",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 838
+    },
+    {
+      "trail_name": "Buckeye Trail Hunt Farm to Ira",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 840
+    },
+    {
+      "trail_name": "Buckeye Trail Ira to Botzum",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 839
+    },
+    {
+      "trail_name": "Buckeye Trail Jaite Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 835
+    },
+    {
+      "trail_name": "Buckeye Trail Lock 29 to Hunt Farm ",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 889
+    },
+    {
+      "trail_name": "Butler Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 834
+    },
+    {
+      "trail_name": "Buttonbush Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 394
+    },
+    {
+      "trail_name": "Cherry Lane Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 404
+    },
+    {
+      "trail_name": "Chippewa Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 413
+    },
+    {
+      "trail_name": "Chuckery Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 369
+    },
+    {
+      "trail_name": "Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 387
+    },
+    {
+      "trail_name": "Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 843
+    },
+    {
+      "trail_name": "Connector Trail to Averill Pond",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 842
+    },
+    {
+      "trail_name": "Cross Country Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 841
+    },
+    {
+      "trail_name": "Cross Country Trail and Lake Trail Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 853
+    },
+    {
+      "trail_name": "CVC Station Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 897
+    },
+    {
+      "trail_name": "Daffodil Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 375
+    },
+    {
+      "trail_name": "Deer Run and Buckeye Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 914
+    },
+    {
+      "trail_name": "Deer Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 407
+    },
+    {
+      "trail_name": "Deer Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 913
+    },
+    {
+      "trail_name": "Dickerson Run Trail",
+      "descriptn": null,
+      "segmentIds": [],
+      "dsgnations": [],
+      "trail_id": 424
+    },
+    {
+      "trail_name": "Dogwood Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 416
+    },
+    {
+      "trail_name": "Egbert Picnic Area Bridle Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 810
+    },
+    {
+      "trail_name": "Egbert Picnic Area Buckeye Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 815
+    },
+    {
+      "trail_name": "Egbert Picnic Area Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 809
+    },
+    {
+      "trail_name": "Fernwood Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 405
+    },
+    {
+      "trail_name": "Fitzwater Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 898
+    },
+    {
+      "trail_name": "Forest Point Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 844
+    },
+    {
+      "trail_name": "Frazee House to Alexander Road Bridle Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 806
+    },
+    {
+      "trail_name": "Frazee House to Alexander Road Buckeye Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 811
+    },
+    {
+      "trail_name": "Frazee House to Station Road Bridge Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 882
+    },
+    {
+      "trail_name": "Frazee House to Station Road Bridge Towpath Trail Sections",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 883
+    },
+    {
+      "trail_name": "Freedom Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 382
+    },
+    {
+      "trail_name": "Furnace Ridge Overlook",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 818
+    },
+    {
+      "trail_name": "Furnace Ridge Overlook Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 819
+    },
+    {
+      "trail_name": "Furnace Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 845
+    },
+    {
+      "trail_name": "Glens Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 384
+    },
+    {
+      "trail_name": "Gorge Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 383
+    },
+    {
+      "trail_name": "Hale Farm Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 846
+    },
+    {
+      "trail_name": "Haskell Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 848
+    },
+    {
+      "trail_name": "Hemlock Creek Bridle Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 808
+    },
+    {
+      "trail_name": "Hemlock Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 849
+    },
+    {
+      "trail_name": "Highbridge Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 386
+    },
+    {
+      "trail_name": "Holzhauer Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 862
+    },
+    {
+      "trail_name": "Horseshoe Pond Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 847
+    },
+    {
+      "trail_name": "Hunt Farm to Ira Towpath Buckeye Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 893
+    },
+    {
+      "trail_name": "Indian Spring Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 396
+    },
+    {
+      "trail_name": "Indigo Lake Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 850
+    },
+    {
+      "trail_name": "Ira Towpath Buckeye Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 894
+    },
+    {
+      "trail_name": "Jaite to Boston Store Buckeye Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 836
+    },
+    {
+      "trail_name": "Jogging Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 415
+    },
+    {
+      "trail_name": "Kendall Hills Connector Trails",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 851
+    },
+    {
+      "trail_name": "Kendall Lake Connector Trails",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 852
+    },
+    {
+      "trail_name": "Lake Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 859
+    },
+    {
+      "trail_name": "Langes Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 425
+    },
+    {
+      "trail_name": "Langes Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 858
+    },
+    {
+      "trail_name": "Ledges Connector Trails",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 855
+    },
+    {
+      "trail_name": "Ledges to Haskell Run Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 854
+    },
+    {
+      "trail_name": "Ledges to Pine Grove Connector Trails",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 856
+    },
+    {
+      "trail_name": "Ledges Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 857
+    },
+    {
+      "trail_name": "Ledges Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 395
+    },
+    {
+      "trail_name": "Leonard Krieger CanalWay Center Connector Trail ",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 822
+    },
+    {
+      "trail_name": "Lock 29 to Hunt Farm Towpath Buckeye Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 891
+    },
+    {
+      "trail_name": "Meadow Loop Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 397
+    },
+    {
+      "trail_name": "Meadow Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 398
+    },
+    {
+      "trail_name": "Mingo Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 417
+    },
+    {
+      "trail_name": "Nature Realm Trails",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 406
+    },
+    {
+      "trail_name": "Neighborhood Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 400
+    },
+    {
+      "trail_name": "Nursing Home Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 401
+    },
+    {
+      "trail_name": "Oak Hill and Plateau Shared Sections",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 863
+    },
+    {
+      "trail_name": "Oak Hill Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 864
+    },
+    {
+      "trail_name": "Ohio & Erie Canal Towpath Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 877
+    },
+    {
+      "trail_name": "Old Carriage Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 860
+    },
+    {
+      "trail_name": "Old Carriage Trail Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 861
+    },
+    {
+      "trail_name": "Old Mill Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 376
+    },
+    {
+      "trail_name": "Overlook Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 370
+    },
+    {
+      "trail_name": "Overlook Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 367
+    },
+    {
+      "trail_name": "Oxbow Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 368
+    },
+    {
+      "trail_name": "Parcours Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 388
+    },
+    {
+      "trail_name": "Peninsula Depot and Lock 29 Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 900
+    },
+    {
+      "trail_name": "Perkins Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 409
+    },
+    {
+      "trail_name": "Perkins Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 869
+    },
+    {
+      "trail_name": "Pheasant Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 412
+    },
+    {
+      "trail_name": "Pine Grove Connector Trail to Lake Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 866
+    },
+    {
+      "trail_name": "Pine Grove Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 867
+    },
+    {
+      "trail_name": "Piney Woods Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 389
+    },
+    {
+      "trail_name": "Plateau Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 865
+    },
+    {
+      "trail_name": "Plateau Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 868
+    },
+    {
+      "trail_name": "Prairie Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 411
+    },
+    {
+      "trail_name": "Quarry Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 373
+    },
+    {
+      "trail_name": "Redwing Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 379
+    },
+    {
+      "trail_name": "Riding Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 870
+    },
+    {
+      "trail_name": "Riding Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 410
+    },
+    {
+      "trail_name": "Rock Creek Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 377
+    },
+    {
+      "trail_name": "Rock & Herb Garden",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 403
+    },
+    {
+      "trail_name": "Rockside Station Connector to Lock 39",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 896
+    },
+    {
+      "trail_name": "Salt Run Connector Trails",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 872
+    },
+    {
+      "trail_name": "Salt Run Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 873
+    },
+    {
+      "trail_name": "Schumacher Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 371
+    },
+    {
+      "trail_name": "Seneca Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 402
+    },
+    {
+      "trail_name": "Six Mile Flats Loop Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 803
+    },
+    {
+      "trail_name": "Spring Hollow Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 392
+    },
+    {
+      "trail_name": "Stanford Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 871
+    },
+    {
+      "trail_name": "Stanford Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 874
+    },
+    {
+      "trail_name": "Stanford Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 427
+    },
+    {
+      "trail_name": "Station Road Bridge Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 899
+    },
+    {
+      "trail_name": "Station Road Bridge to Red Lock",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 884
+    },
+    {
+      "trail_name": "Station Road Bridge to Red Lock Buckeye Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 816
+    },
+    {
+      "trail_name": "Station Road Bridge to Red Lock Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 817
+    },
+    {
+      "trail_name": "Station Road Bridge to Red Lock Valley Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 826
+    },
+    {
+      "trail_name": "Stream Restoration Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 378
+    },
+    {
+      "trail_name": "Sugarbush Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 393
+    },
+    {
+      "trail_name": "Tabletop Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 875
+    },
+    {
+      "trail_name": "Tabletop Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 423
+    },
+    {
+      "trail_name": "The Lower 40 Loop Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 802
+    },
+    {
+      "trail_name": "Towpath Connector",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 374
+    },
+    {
+      "trail_name": "Towpath Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 915
+    },
+    {
+      "trail_name": "Towpath Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 419
+    },
+    {
+      "trail_name": "Towpath Trail Bacci Park Aqueduct to West Canal Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 824
+    },
+    {
+      "trail_name": "Towpath Trail Barberton to Wolf Creek",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 928
+    },
+    {
+      "trail_name": "Towpath Trail Beech Street to Lock 3 Park",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 922
+    },
+    {
+      "trail_name": "Towpath Trail Big Bend to Memorial Parkway",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 918
+    },
+    {
+      "trail_name": "Towpath Trail Boston Store to Lock 29",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 886
+    },
+    {
+      "trail_name": "Towpath Trail Botzum to Portage Path",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 916
+    },
+    {
+      "trail_name": "Towpath Trail Canal Visitor Center to Fitzwater",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 879
+    },
+    {
+      "trail_name": "Towpath Trail Clinton to Lake Lucerne",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 932
+    },
+    {
+      "trail_name": "Towpath Trail Clinton to Lake Lucerne (MPSSC)",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 933
+    },
+    {
+      "trail_name": "Towpath Trail Fitzwater to Frazee House",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 880
+    },
+    {
+      "trail_name": "Towpath Trail Franklin to Clinton",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 931
+    },
+    {
+      "trail_name": "Towpath Trail Frazee House to Station Road Bridge",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 881
+    },
+    {
+      "trail_name": "Towpath Trail Harvard Road to Leonard Krieger CanalWay Center",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 821
+    },
+    {
+      "trail_name": "Towpath Trail Hunt Farm to Ira",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 892
+    },
+    {
+      "trail_name": "Towpath Trail Ira to Botzum",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 895
+    },
+    {
+      "trail_name": "Towpath Trail Leonard Krieger CanalWay Center To Bacci Park Aqueduct",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 823
+    },
+    {
+      "trail_name": "Towpath Trail Lock 29 to Hunt Farm ",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 890
+    },
+    {
+      "trail_name": "Towpath Trail Lock 39 to Canal Visitor Center",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 878
+    },
+    {
+      "trail_name": "Towpath Trail Lock 3 Park to Richard Howe House",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 923
+    },
+    {
+      "trail_name": "Towpath Trail Manchester Road to Barberton",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 927
+    },
+    {
+      "trail_name": "Towpath Trail Memorial Parkway to Mustill Store",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 919
+    },
+    {
+      "trail_name": "Towpath Trail Mustill Store To Beech Street ",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 920
+    },
+    {
+      "trail_name": "Towpath Trail Portage Path to Big Bend",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 917
+    },
+    {
+      "trail_name": "Towpath Trail Red Lock to Boston Store",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 885
+    },
+    {
+      "trail_name": "Towpath Trail Richard Howe House to Summit Lake",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 924
+    },
+    {
+      "trail_name": "Towpath Trail Steelyard Commons to Harvard Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 820
+    },
+    {
+      "trail_name": "Towpath Trail Summit Lake Park to Wilbeth Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 925
+    },
+    {
+      "trail_name": "Towpath Trail Vanderhoof Road to Franklin",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 930
+    },
+    {
+      "trail_name": "Towpath Trail West Canal Road to Lock 39",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 825
+    },
+    {
+      "trail_name": "Towpath Trail Wilbeth Road to Manchester Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 926
+    },
+    {
+      "trail_name": "Towpath Trail Wolf Creek to Vanderhoof Road",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 929
+    },
+    {
+      "trail_name": "Tree Farm Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 876
+    },
+    {
+      "trail_name": "Valley and Langes Run Shared Sections",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 901
+    },
+    {
+      "trail_name": "Valley and Wetmore Shared Section",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 911
+    },
+    {
+      "trail_name": "Valley Bridle Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 408
+    },
+    {
+      "trail_name": "Valley Link Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 372
+    },
+    {
+      "trail_name": "Valley Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 426
+    },
+    {
+      "trail_name": "Valley Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 902
+    },
+    {
+      "trail_name": "Valley Trail between Boston and Pine Lane",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 906
+    },
+    {
+      "trail_name": "Valley Trail between Frazee House and Station Road Bridge",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 903
+    },
+    {
+      "trail_name": "Valley Trail between Red Lock and Boston",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 905
+    },
+    {
+      "trail_name": "Valley Trail between Red Lock and Station Road Bridge",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 904
+    },
+    {
+      "trail_name": "Valley Trail Hunt Farm to Everett Covered Bridge",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 910
+    },
+    {
+      "trail_name": "Valley Trail Pine Lane to Wetmore",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 908
+    },
+    {
+      "trail_name": "Valley Trail Wetmore to Hunt Farm",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 909
+    },
+    {
+      "trail_name": "Walking Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 380
+    },
+    {
+      "trail_name": "Weaver School Connector Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 399
+    },
+    {
+      "trail_name": "Wetmore Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 422
+    },
+    {
+      "trail_name": "Wetmore Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 912
+    },
+    {
+      "trail_name": "Willow Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 381
+    },
+    {
+      "trail_name": "Wood Hollow Trail",
+      "image_url": "http://switching-gears.org/wp-content/uploads/bikepic1.jpg",
+      "image_id": 1,
+      "trail_id": 420
+    }
   ]
 }

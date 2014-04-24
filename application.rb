@@ -1,5 +1,16 @@
 require 'sinatra'
 require 'json'
+require 'rack/cors'
+
+use Rack::Cors do |config|
+  config.allow do |allow|
+    allow.origins '*'
+    allow.resource '*',
+      methods: [:get, :post, :put, :delete],
+      headers: :any,
+      max_age: 0
+  end
+end
 
 RESOURCES = %w( trails trailheads trailsegments stewards notifications photos ).freeze
 

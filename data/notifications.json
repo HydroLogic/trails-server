@@ -8,7 +8,7 @@
       "type": "Notification",
       "read": false,
       "createdAt": "2014-03-21T19:20:30.45+01:00"
-    }
+    },
     {
       "id": 2,
       "title": "Alert Headline",
@@ -17,7 +17,7 @@
       "type": "Alert",
       "read": false,
       "createdAt": "2014-03-21T19:20:30.45+01:00"
-    }
+    },
     {
       "id": 3,
       "title": "Notification Headline",
@@ -26,7 +26,7 @@
       "type": "Notification",
       "read": false,
       "createdAt": "2014-03-21T19:20:30.45+01:00"
-    }
+    },
     {
       "id": 4,
       "title": "Alert Headline",

@@ -1,1 +1,25 @@
-{"stewards":[{"name":"Metro Parks, Serving Summit County","url":"http://www.summitmetroparks.org/","phone":"330-867-5511","address":[],"id":1},{"name":"Cleveland Metroparks","url":"http://clevelandmetroparks.com","phone":"216-635-3200","address":[],"id":3},{"name":"Cuyahoga Valley National Park","url":"http://www.nps.gov/cuva/","phone":"330-657-2752","address":[],"id":4}]}
+{
+  "stewards": [
+    {
+      "name": "Metro Parks, Serving Summit County",
+      "url": "http://www.summitmetroparks.org/",
+      "phone": "330-867-5511",
+      "address": [],
+      "id": 1
+    },
+    {
+      "name": "Cleveland Metroparks",
+      "url": "http://clevelandmetroparks.com",
+      "phone":"216-635-3200",
+      "address":[],
+      "id":3
+    },
+    {
+      "name":"Cuyahoga Valley National Park",
+      "url":"http://www.nps.gov/cuva/",
+      "phone":"330-657-2752",
+      "address":[],
+      "id":4
+    }
+  ]
+}

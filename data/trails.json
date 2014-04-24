@@ -1,1 +1,2598 @@
-[{"name":"Adam Run Trail","descriptn":"One of the park district's most demanding hikes; forms a sort of figure eight with Spring Hollow Trail. Travels through ravines and over streams.","segmentIds":[2869],"dsgnations":[],"id":391},{"name":"Akron Northside Connector to the Towpath Trail","descriptn":null,"segmentIds":[3272],"dsgnations":[],"id":921},{"name":"Albermarle Connector Trail","descriptn":"Gorge Metro Park connector trail to the neighborhoods to the north and east of the park.","segmentIds":[],"dsgnations":[],"id":385},{"name":"Alder Trail","descriptn":"Alder Trail leads through the woods to Alder Pond, where a cattail marsh provides good wildlife habitat.","segmentIds":[2878],"dsgnations":[],"id":390},{"name":"Alexander Road to Egbert Picnic Area Bridle Section","descriptn":null,"segmentIds":[3295],"dsgnations":[],"id":807},{"name":"Alexander Road to Egbert Picnic Area Buckeye Section","descriptn":"","segmentIds":[3301,3296],"dsgnations":[],"id":814},{"name":"Alexander Road to Egbert Picnic Area Shared Section","descriptn":null,"segmentIds":[3306],"dsgnations":[],"id":813},{"name":"Armington Cross Country Connector Trail","descriptn":"","segmentIds":[3225],"dsgnations":[],"id":827},{"name":"Bedford Reservation Bridle Trail","descriptn":null,"segmentIds":[3295,3303,3300,3294,3301,3305,3298,3299,3292,3302,3306,3297,3291,3304],"dsgnations":[],"id":805},{"name":"Big Bend Connector","descriptn":"Connects to the Towpath Trail.","segmentIds":[2904],"dsgnations":[],"id":418},{"name":"Bike & Hike Alexander Road to SR 82 North","descriptn":null,"segmentIds":[3274,3273],"dsgnations":[],"id":794},{"name":"Bike & Hike Bike & Hike Trail Boston Mills Road Connector","descriptn":null,"segmentIds":[],"dsgnations":[],"id":799},{"name":"Bike & Hike Boston Mills Road to SR 303","descriptn":null,"segmentIds":[],"dsgnations":[],"id":800},{"name":"Bike & Hike Brandywine Falls to Boston Mills Road","descriptn":null,"segmentIds":[],"dsgnations":[],"id":798},{"name":"Bike & Hike Connector","descriptn":"Bike & Hike Connector extends the Bike & Hike Trail to connect the northern and southern legs of the Bike & Hike Trail.","segmentIds":[2867],"dsgnations":[],"id":365},{"name":"Bike & Hike Connector Trail","descriptn":null,"segmentIds":[],"dsgnations":[],"id":804},{"name":"Bike & Hike SR 82 South to Brandywine Falls","descriptn":null,"segmentIds":[3275],"dsgnations":[],"id":795},{"name":"Bike & Hike Trail","descriptn":"All 34 miles of the Bike & Hike trail are paved. Some portions of the trail use neighborhood streets. Please follow the green biking signs until you rejoin the established trail. For your convenience, restrooms are located at the Brandywine Falls, SR 303, Springdale, Silver Springs and SR 91 lots.","segmentIds":[2860,2861,2862,2863,2864,2865,2866,3276,3275,3181,3280,3281,3274,3316,3273],"dsgnations":[],"id":364},{"name":"Bike & Hike Trail Brandywine Falls Connector","descriptn":null,"segmentIds":[3221],"dsgnations":[],"id":797},{"name":"Bike & Hike Trail Connector at SR 303","descriptn":null,"segmentIds":[3277],"dsgnations":[],"id":801},{"name":"Bike & Hike Trail (NPS)","descriptn":null,"segmentIds":[3221],"dsgnations":[],"id":830},{"name":"Blue Hen Falls Trail","descriptn":"This short trail is rough and steep in places, descending to a scenic creek. The lovely Blue Hen Falls is a favorite with photographers, especially in fall and winter. The water erodes the rock at its base, creating attractive potholes and plunge pools. To prevent personal injury and protect the fragile habitat, please stay behind the trail fence. For a longer hike, continue on the Buckeye Trail.","segmentIds":[3169,3315],"dsgnations":[],"id":831},{"name":"Blue Hen Falls Trail Shared Buckeye Section","descriptn":null,"segmentIds":[3315],"dsgnations":[],"id":832},{"name":"Boston Run Trail","descriptn":"This unpaved loop trail is mostly wooded, featuring stands of grey-barked beech trees and a ravine of hemlocks. It twice crosses the tributary of the Cuyahoga River for which the trail is named. The length and moderate hills make this a good choice for intermediate-level cross-country skiers and runners. Watch for birds that prefer mature forests. ","segmentIds":[3131,3129,3128,3130],"dsgnations":[],"id":833},{"name":"Boston to Pine Lane Shared Section","descriptn":null,"segmentIds":[3311],"dsgnations":[],"id":907},{"name":"Boston to Pine Lane Towpath Buckeye Shared Section","descriptn":null,"segmentIds":[3318],"dsgnations":[],"id":888},{"name":"Boston to Pine Lane Towpath Shared Section","descriptn":null,"segmentIds":[3192],"dsgnations":[],"id":887},{"name":"Brandywine Falls Boardwalk","descriptn":"This short, hard-surfaced trail offers views of the 65-foot Brandywine Falls—one of the most popular destination in this national park. The boardwalk, upper observation platform, picnic area, and restrooms are stroller and wheelchair accessible. Steep stairs to the lower viewing platform are closed during slippery conditions.","segmentIds":[3221,3220],"dsgnations":[],"id":828},{"name":"Brandywine Gorge Trail","descriptn":"Spring wildflowers, autumn leaves, and frozen cascades of winter ice make this an enjoyable route all year. The unpaved trail takes you from 65-foot Brandywine Falls down into the steep gorge where you can loop back on part of the Stanford Trail. Overlooking the falls are ruins of past industry and the historic Inn at Brandywine Falls. A short boardwalk next to the parking lot (the Brandywine Falls Trail) provides photogenic views of the thundering water.","segmentIds":[3221,3189,3220,3316],"dsgnations":[],"id":829},{"name":"Brandywine Gorge Trail and Bike & Hike Shared Section","descriptn":null,"segmentIds":[3316],"dsgnations":[],"id":796},{"name":"Bridle Trail","descriptn":"The Bridle Trail at Silver Creek Metro Park is the only horseback trail managed by Metro Parks, Serving Summit County.","segmentIds":[2890],"dsgnations":[],"id":414},{"name":"Buckeye Trail","descriptn":"","segmentIds":[3311,3317,3192,3217,3157,3175,3278,3325,3293,3309,3310,3312,3180,3133,3301,3305,3193,3306,3296,3315,3318,3323,3324,3273,3290,3313],"dsgnations":[],"id":366},{"name":"Buckeye Trail","descriptn":"The Buckeye Trail circles Ohio and is managed by the Buckeye Trail Association. Within Summit County, the trail is often rugged and scenic as it passes through several parks. Follow blue blazes painted on trees and telephone poles. On this site, you can explore the trail by section. For more information, visit www.buckeyetrail.org.","segmentIds":[3311,3317,3192,3217,3157,3175,3278,3325,3293,3309,3310,3312,3180,3133,3301,3305,3193,3306,3296,3315,3318,3323,3324,3273,3290,3313],"dsgnations":[],"id":812},{"name":"Buckeye Trail Boston Store to Pine Lane","descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. From Boston Store Visitor Center, this unpaved section overlaps the Towpath and Valley Bridle trails near the Cuyahoga River. Hikers must yield to horseback riders. The trail climbs the steep east rim of the valley. This section features diverse forest habitats.","segmentIds":[3310],"dsgnations":[],"id":837},{"name":"Buckeye Trail Connector from Pine Lane to Towpath","descriptn":null,"segmentIds":[3317,3175],"dsgnations":[],"id":838},{"name":"Buckeye Trail Hunt Farm to Ira","descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. This section follows the Towpath Trail to Ira Road. ","segmentIds":[3133],"dsgnations":[],"id":840},{"name":"Buckeye Trail Ira to Botzum","descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. This section follows the Towpath Trail to Ira Road. The Buckeye branches off along Ira Road and climbs steeply to O'Neill Woods Metro Park and connection back to the Towpath Trail just south of Yellow Creek Road.  Part of the trail follows jeep paths on the Botzum farmstead. Enjoy lovely views of beech forests, farm fields, and meadows from the ridge above the valley.","segmentIds":[3278,3325,3312,3193],"dsgnations":[],"id":839},{"name":"Buckeye Trail Jaite Connector","descriptn":null,"segmentIds":[3217],"dsgnations":[],"id":835},{"name":"Buckeye Trail Lock 29 to Hunt Farm ","descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. In this section, the unpaved trail joins the flat, firm Towpath Trail in Peninsula. Highlights include the historic Village of Peninsula, ruins along the Ohio & Erie Canal, an optional side trip to Deep Lock Quarry, and views of the Cuyahoga River. This section has several options for restrooms, visitor information, and food. ","segmentIds":[],"dsgnations":[],"id":889},{"name":"Butler Trail","descriptn":"Begin this short, natural surface connector trail at the Wetmore Trailhead. A portion of this trail uses an old brick road. Travel down into the Langes Run bottomlands to enjoy the cottonwood and sycamore trees. Wildflowers are abundant in the spring. Loop back on Lange Run Trail. Be careful at the road crossings. Horse trailer parking is available at Wetmore.","segmentIds":[3211],"dsgnations":[],"id":834},{"name":"Buttonbush Trail","descriptn":"The trail follows an old service road, where vehicles once traveled to and from oil wells, last used in 2003. Today, you'll walk between two large buttonbush swamps. The trail's namesake, the buttonbush, is a flowering shrub that grows in shallow water about one to two feet deep.","segmentIds":[2846],"dsgnations":[],"id":394},{"name":"Cherry Lane Trail","descriptn":"Cherry Lane Trail is an easy-to-travel loop that connects to Fernwood Trail at a 110-foot-long suspension bridge, taking visitors across a 45-foot-deep ravine.","segmentIds":[2901],"dsgnations":[],"id":404},{"name":"Chippewa Trail","descriptn":"Along Chippewa Trail, mature trees have grown from thousands of seedlings planted by Girl Scout troops between 1967 and 1983.","segmentIds":[2888],"dsgnations":[],"id":413},{"name":"Chuckery Trail","descriptn":"This difficult trail gives hikers a glimpse of the Indian Signal Tree, reportedly shaped by American Indians, before passing the Cuyahoga River, crossing the parkway and heading uphill; then it loops back to the start.","segmentIds":[2891],"dsgnations":[],"id":369},{"name":"Connector Trail","descriptn":"Gorge Connector Trail offers pedestrian entrance to the park from Front Street.","segmentIds":[2886,3232,3321,3235],"dsgnations":[],"id":387},{"name":"Connector Trail","descriptn":null,"segmentIds":[2886,3232,3321,3235],"dsgnations":[],"id":843},{"name":"Connector Trail to Averill Pond","descriptn":null,"segmentIds":[3216,3127],"dsgnations":[],"id":842},{"name":"Cross Country Trail","descriptn":"This unpaved, rolling trail was designed for intermediate cross-country skiing, but is also good for hiking. Starting at Kendall Lake parking lot, the trail curves and dips in a loop around the upper waters of Salt Run. Although the route is mostly wooded, it does open out on the Kendall Hills and provide opportunities for downhill runs. Watch for whizzing sleds. Winter hikers should yield to skiers and avoid stepping in ski tracks. When there is adequate snowfall, the Winter Sport Center at Kendall Lake Shelter offers equipment rental, cocoa, helpful tips, and a place to warm up.","segmentIds":[3321,3224,3206],"dsgnations":[],"id":841},{"name":"Cross Country Trail and Lake Trail Shared Section","descriptn":null,"segmentIds":[3206],"dsgnations":[],"id":853},{"name":"CVC Station Connector Trail","descriptn":null,"segmentIds":[3226],"dsgnations":[],"id":897},{"name":"Daffodil Trail","descriptn":"An estimated 40,000 daffodils -- including dozens of varieties -- bloom each spring along the H.S. Wagner Daffodil Trail, named for the park district's first director-secretary, who planted the first bulbs here in the late 1930s. Peak bloom is typically mid-April.","segmentIds":[2852],"dsgnations":[],"id":375},{"name":"Deer Run and Buckeye Shared Section","descriptn":null,"segmentIds":[3278],"dsgnations":[],"id":914},{"name":"Deer Run Trail","descriptn":"The challenging, and aptly-named, Deer Run Trail follows a path worn by white-tailed deer and provides scenic views of the Cuyahoga River Valley. How many steps do you count on the hike back to the top?","segmentIds":[3278,3279],"dsgnations":[],"id":407},{"name":"Deer Run Trail","descriptn":null,"segmentIds":[3278,3279],"dsgnations":[],"id":913},{"name":"Dickerson Run Trail","descriptn":null,"segmentIds":[],"dsgnations":[],"id":424},{"name":"Dogwood Trail","descriptn":"Explore shady valley and ridge-top terrain along the wooded and challenging Dogwood Trail.","segmentIds":[2907],"dsgnations":[],"id":416},{"name":"Egbert Picnic Area Bridle Section","descriptn":null,"segmentIds":[3294],"dsgnations":[],"id":810},{"name":"Egbert Picnic Area Buckeye Section","descriptn":null,"segmentIds":[3293],"dsgnations":[],"id":815},{"name":"Egbert Picnic Area Shared Section","descriptn":null,"segmentIds":[3301],"dsgnations":[],"id":809},{"name":"Fernwood Trail","descriptn":"Fernwood Trail is an easy-to-travel loop that connects to Cherry Lane Trail at a 110-foot-long suspension bridge, taking visitors across a 45-foot-deep ravine.","segmentIds":[],"dsgnations":[],"id":405},{"name":"Fitzwater Connector Trail","descriptn":null,"segmentIds":[3288],"dsgnations":[],"id":898},{"name":"Forest Point Trail","descriptn":"Enjoy the unique architecture of Octagon Shelter, built in the 1930s by the Civilian Conservation Corps.  Cross the grassy playfield behind the rental shelter to find the trailhead at the far end. The flat, unpaved trail forms a short wooded loop that is perfect for families with young children","segmentIds":[3162],"dsgnations":[],"id":844},{"name":"Frazee House to Alexander Road Bridle Section","descriptn":null,"segmentIds":[3305,3292,3291,3304],"dsgnations":[],"id":806},{"name":"Frazee House to Alexander Road Buckeye Section","descriptn":null,"segmentIds":[3273,3290],"dsgnations":[],"id":811},{"name":"Frazee House to Station Road Bridge Shared Section","descriptn":null,"segmentIds":[3308],"dsgnations":[],"id":882},{"name":"Frazee House to Station Road Bridge Towpath Trail Sections","descriptn":null,"segmentIds":[3307],"dsgnations":[],"id":883},{"name":"Freedom Trail","descriptn":"The Freedom Trail travels 4.2 miles between the Middlebury Lot to Tallmadge Circle. When completed, this eight-mile multipurpose trail will connect Akron and Kent and become another popular linear park managed by Metro Parks, Serving Summit County.","segmentIds":[2912],"dsgnations":[],"id":382},{"name":"Furnace Ridge Overlook","descriptn":null,"segmentIds":[3230],"dsgnations":[],"id":818},{"name":"Furnace Ridge Overlook Trail","descriptn":null,"segmentIds":[3232],"dsgnations":[],"id":819},{"name":"Furnace Run Trail","descriptn":"Begin this natural surface, hilly trail at Everett Road Covered Bridge Trailhead. Cross Everett Road and then climb steep steps up the valley wall. Cross Oak Hill Road and take a steep loop to explore Furnace Run. This area near the stream is covered with Virginia bluebells in spring. For the security of children, Cuyahoga Valley Environmental Education Center and its trails are closed to the public.","segmentIds":[3207,3123,3124,3190],"dsgnations":[],"id":845},{"name":"Glens Trail","descriptn":"Glens Trail provides views from the edge of the Cuyahoga River. Springs flow from the ledges along this trail, providing water needed for liverwort.","segmentIds":[2883],"dsgnations":[],"id":384},{"name":"Gorge Trail","descriptn":"Gorge Trail provides access to Mary Campbell Cave, an easy half-mile walk from the parking lot. At the start of the trail, a short (half-mile, round trip) section earns Class B status and is good for users with wheelchairs, walkers, canes and strollers. The trail quickly becomes more rugged as it passes through stunning rock-ledge formations. An upper section of the trail is even considered \"primitive,\" earning Class D status.","segmentIds":[2885],"dsgnations":[],"id":383},{"name":"Hale Farm Connector","descriptn":"This firm, flat trail connects the Towpath Trail to Hale Farm & Village. It passes Indigo Lake and provides trail access to the Indigo Lake Station. At times, a shuttle carries train passengers to the living history museum. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal.","segmentIds":[3210,3209],"dsgnations":[],"id":846},{"name":"Haskell Run Trail","descriptn":"This short, unpaved loop trail descends a steep slope into a scenic ravine and follows a meandering stream. The cool, moist environment is perfect for water-loving plants. A variety of songbirds, amphibians, and mammals make their homes here. There is a link to the Ledge Trail and Ice Box Cave (closed for bat protection). It is a good choice for families with young children.","segmentIds":[3161,3160],"dsgnations":[],"id":848},{"name":"Hemlock Creek Bridle Section","descriptn":null,"segmentIds":[3303,3300,3298,3299,3302,3297],"dsgnations":[],"id":808},{"name":"Hemlock Trail","descriptn":null,"segmentIds":[3134],"dsgnations":[],"id":849},{"name":"Highbridge Trail","descriptn":"The moderate Highbridge Trail connects Gorge Metro Park and Cascade Valley Metro Park / South.","segmentIds":[2884],"dsgnations":[],"id":386},{"name":"Holzhauer Road","descriptn":null,"segmentIds":[3227],"dsgnations":[],"id":862},{"name":"Horseshoe Pond Trail","descriptn":"This short, flat, firm trail provides access from the parking lot to a wheelchair-accessible fishing pier and a picnic pavilion overlooking Horseshow Pond. This is a popular place to view fall colors. The trail links with the longer, unpaved Tree Farm Trail.","segmentIds":[3320],"dsgnations":[],"id":847},{"name":"Hunt Farm to Ira Towpath Buckeye Shared Section","descriptn":null,"segmentIds":[3133],"dsgnations":[],"id":893},{"name":"Indian Spring Trail","descriptn":"Inside the Lake Area, Indian Spring Trail loops through two types of forests and near wetlands, ponds, a stream and the trail's namesake, an old spring.","segmentIds":[2870],"dsgnations":[],"id":396},{"name":"Indigo Lake Connector Trail","descriptn":null,"segmentIds":[3209],"dsgnations":[],"id":850},{"name":"Ira Towpath Buckeye Shared Section","descriptn":null,"segmentIds":[3193],"dsgnations":[],"id":894},{"name":"Jaite to Boston Store Buckeye Section","descriptn":null,"segmentIds":[3309,3315],"dsgnations":[],"id":836},{"name":"Jogging Trail","descriptn":"The Parkway Jogging Trail is the most popular in the park district, averaging more than 1,000 users a day, year-round.","segmentIds":[2906],"dsgnations":[],"id":415},{"name":"Kendall Hills Connector Trails","descriptn":null,"segmentIds":[3223],"dsgnations":[],"id":851},{"name":"Kendall Lake Connector Trails","descriptn":null,"segmentIds":[3178],"dsgnations":[],"id":852},{"name":"Lake Trail","descriptn":"The trail starts at Kendall Lake Shelter, built as a bathhouse in the 1930s by the Civilian Conservation Corps. It circles in a short, unpaved loop around Kendall Lake. Check for water-loving birds and turtles in the small coves. Beavers have chewed many trees along the shorelines. Although the path is relatively flat, there are steep stairs in places. It is a good choice for families with young children.","segmentIds":[3150,3151,3321,3153,3152,3206],"dsgnations":[],"id":859},{"name":"Langes Run Trail","descriptn":"This trail begins at the Wetmore Trailhead, crosses the road twice, and then loops back via the Wetmore Trail. Watch trail signs and respect trail closures. A variety of habitats provides a little of everything. Enjoy meadows in the highlands, streams and ponds in the lowlands, and steep, wooded slopes. Horse trailer parking is available at Wetmore Trailhead. Hikers must yield to horseback riders.","segmentIds":[3184,3185,3186,3187,3222],"dsgnations":[],"id":425},{"name":"Langes Run Trail","descriptn":"This trail begins at the Wetmore Trailhead, crosses the road twice, and then loops back via the Wetmore Trail. Watch trail signs and respect trail closures. A variety of habitats provides a little of everything. Enjoy meadows in the highlands, streams and ponds in the lowlands, and steep, wooded slopes. Horse trailer parking is available at Wetmore Trailhead. Hikers must yield to horseback riders.","segmentIds":[3184,3185,3186,3187,3222],"dsgnations":[],"id":858},{"name":"Ledges Connector Trails","descriptn":null,"segmentIds":[3188],"dsgnations":[],"id":855},{"name":"Ledges to Haskell Run Connector Trail","descriptn":"","segmentIds":[3159],"dsgnations":[],"id":854},{"name":"Ledges to Pine Grove Connector Trails","descriptn":"","segmentIds":[3176],"dsgnations":[],"id":856},{"name":"Ledges Trail","descriptn":"Ledges Trail is popular with hikers in all seasons. The unpaved loop features dramatic sandstone cliffs and vegetation characteristic of more northern climates. This route is hilly and has steps in places. There are several connections to other trails. Watch trail signs carefully to avoid getting lost. Built in the 1930s by the Civilian Conservation Corps, Ledges Shelter can be rented for a fee. The large playfield can be used for picnics, yard games, and beginning cross-country skiing. Nearby Ledges Overlook offers a scenic view of the Cuyahoga Valley that is especially lovely at sunset. Ice Box Cave is closed to protect roosting bats from a fatal fungal disease. ","segmentIds":[2850,2851,3177],"dsgnations":[],"id":857},{"name":"Ledges Trail","descriptn":"Visitors pass by a unique system of sandstone ledges, into Glacier Cave and to a wetland before traveling back to the trailhead over a long boardwalk. The ledges are covered by a \"living skin.\" Ferns, mosses and lichens grow here, and endangered bats and other species live in the area. For the protection of natural resources, please stay on the trail.","segmentIds":[2850,2851,3177],"dsgnations":[],"id":395},{"name":"Leonard Krieger CanalWay Center Connector Trail ","descriptn":null,"segmentIds":[],"dsgnations":[],"id":822},{"name":"Lock 29 to Hunt Farm Towpath Buckeye Shared Section","descriptn":null,"segmentIds":[3157,3323],"dsgnations":[],"id":891},{"name":"Meadow Loop Trail","descriptn":"The short Meadow Loop is a flat, easy trail in the Tallmadge Meadows Area that can be enjoyed by users with wheelchairs, walkers, canes and strollers.","segmentIds":[2871],"dsgnations":[],"id":397},{"name":"Meadow Trail","descriptn":"From the parking lot of the Tallmadge Meadows Area, the Meadow Trail passes by the County Home cemetery and travels through woods, a shrub thicket, wetland woods and its namesake meadow. Several boardwalks help visitors traverse the wet areas.","segmentIds":[2874],"dsgnations":[],"id":398},{"name":"Mingo Trail","descriptn":"The difficult Mingo Trail harbors a variety of wildlife and oak, beech and tulip trees. West of Shady Hollow Pavilion, the trail becomes quite rugged, earning Class D status.","segmentIds":[2908],"dsgnations":[],"id":417},{"name":"Nature Realm Trails","descriptn":"","segmentIds":[2898],"dsgnations":[],"id":406},{"name":"Neighborhood Connector","descriptn":"Connects the Tallmadge Meadows Area to neighborhoods west of Darrow Road (SR 91).  ","segmentIds":[2875],"dsgnations":[],"id":400},{"name":"Nursing Home Connector","descriptn":"Connects the Tallmadge Meadows Area to Heather Knoll Retirement Village.","segmentIds":[2872],"dsgnations":[],"id":401},{"name":"Oak Hill and Plateau Shared Sections","descriptn":null,"segmentIds":[3198,3200,3205],"dsgnations":[],"id":863},{"name":"Oak Hill Trail","descriptn":"This loop trail is flat and unpaved. It leads past old farm fields, across streams, through planted pines and natural forest, and beside Sylvan Pond. During the warm months, watch for butterflies, birds, small mammals, dragonflies, frogs, and beaver. In winter, this is a great place to cross-country ski. Sylvan Pond is a popular place to fish, take photographs, and enjoy fall colors. ","segmentIds":[3197,3198,3199,3204,3200,3202,3203,3205],"dsgnations":[],"id":864},{"name":"Ohio & Erie Canal Towpath Trail","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. ","segmentIds":[3307,3219,3264,3265,3156,3192,3260,3286,3217,3231,3157,3175,3319,3232,3250,3241,3258,3270,3284,3237,3289,3191,3271,3243,3257,3262,3244,3233,3240,3285,3259,3181,3210,3245,3252,3308,3209,3269,3218,3238,3234,3235,3236,3174,3239,3180,3182,3133,3246,3253,3251,3283,3249,3287,3226,3230,3263,3248,3254,3255,3256,3266,3267,3268,3215,3282,3288,3183,3193,3194,3318,3323,3261,3247,3242],"dsgnations":[],"id":877},{"name":"Old Carriage Trail","descriptn":"This hilly trail forms a C-shape on the eastern side of the Towpath Trail, between the Red Lock and Station Road Bridge trailheads. There is also local access from Holzhauer Road, but no parking lot. A steep, paved southern section called the Old Carriage Connector Trail links the Towpath Trail north of Red Lock with the Bike & Hike Trail via Holzhauer Road. This is a good choice for hikers and cross-country skiers looking for a workout.","segmentIds":[3154],"dsgnations":[],"id":860},{"name":"Old Carriage Trail Connector Trail","descriptn":"This steep, paved southern section of the Old Carriage Trail links the Towpath Trail north of Red Lock with the Bike & Hike Trail via Holzhauer Road. It’s a shared trail for hikers and cyclists, so use caution and pass to the left using an audible signal.","segmentIds":[3314],"dsgnations":[],"id":861},{"name":"Old Mill Trail","descriptn":"The trail takes hikers through beech-maple woods. Be sure to look for the Brush Family marker, which reads: \"To all those who love as he loved the far sky and smiling land.\"","segmentIds":[2853],"dsgnations":[],"id":376},{"name":"Overlook Connector Trail","descriptn":null,"segmentIds":[],"dsgnations":[],"id":370},{"name":"Overlook Trail","descriptn":"The flat, easy Overlook Trail provides spectacular views of the Cuyahoga River, 125 feet below the Overlook Deck.","segmentIds":[2895],"dsgnations":[],"id":367},{"name":"Oxbow Trail","descriptn":"The moderate Oxbow Trail provides welcome refuge from the everyday hustle and bustle of urban life.","segmentIds":[2892],"dsgnations":[],"id":368},{"name":"Parcours Trail","descriptn":"For a good workout, try this challenging hiking trail with numbered exercise stations.","segmentIds":[2877,2903],"dsgnations":[],"id":388},{"name":"Peninsula Depot and Lock 29 Connector","descriptn":null,"segmentIds":[3175],"dsgnations":[],"id":900},{"name":"Perkins Trail","descriptn":null,"segmentIds":[3163,3164,3165],"dsgnations":[],"id":409},{"name":"Perkins Trail","descriptn":"Begin at the scenic Everett Road Covered Bridge. This natural surface loop trail runs up and down steep hills. The remote quiet of the valley’s forests and ravines is worth the effort. Connect with the Riding Run Trail for a longer loop. Horse trailer parking is available. Hikers must yield to horseback riders.","segmentIds":[3163,3164,3165],"dsgnations":[],"id":869},{"name":"Pheasant Run Trail","descriptn":"The easy Pheasant Run Trail winds through fields and woods and around small ponds.","segmentIds":[2889],"dsgnations":[],"id":412},{"name":"Pine Grove Connector Trail to Lake Trail","descriptn":"","segmentIds":[3212],"dsgnations":[],"id":866},{"name":"Pine Grove Trail","descriptn":"This unpaved loop trail winds and twists through a mature beech forest as well as pines planted during a 1930s reforestation effort. In places there are steep steps. The path begins and ends at the kiosk above the tiered Octagon parking lot. Built in the 1930s by the Civilian Conservation Corps, Octagon Shelter can be rented for a fee. The large grassy playfield can be used for picnics and yard games. ","segmentIds":[3170],"dsgnations":[],"id":867},{"name":"Piney Woods Trail","descriptn":"Although this trail is named for the many pines once planted in the park, they are giving way to a variety of other species through natural succession, including black cherries, oaks and tuliptrees.","segmentIds":[2879],"dsgnations":[],"id":389},{"name":"Plateau Connector Trail","descriptn":null,"segmentIds":[3197,3196],"dsgnations":[],"id":865},{"name":"Plateau Trail","descriptn":"This unpaved wooded trail is a longer, more challenging loop encircling the Oak Hill Trail. The trails connect in several places, offering options for hiking and cross-country skiing. A short spur trail leads to an overlook called Hemlock Point. Read trail signs carefully to avoid getting lost. Trails to Cuyahoga Valley Environmental Education Center are closed to the public to ensure student safety. ","segmentIds":[3137,3197,3198,3136,3200,3134,3125,3135,3201,3205,3196,3126],"dsgnations":[],"id":868},{"name":"Prairie Trail","descriptn":"Though the prairie will take years to fully develop, the easy Prairie Trail leads visitors from the parking lot into what could become a birding hotspot in just a few years.","segmentIds":[2848,2876],"dsgnations":[],"id":411},{"name":"Quarry Trail","descriptn":"Discarded mill stones are scattered along the moderate Quarry Trail, which takes visitors through the woods to an old quarry. You can also link to the Towpath Trail and take a short spur to the park's namesake, the deepest lock on the Ohio & Erie Canal.","segmentIds":[2856],"dsgnations":[],"id":373},{"name":"Redwing Trail","descriptn":"Redwing Trail is an easy loop footpath that connects to the Willow Trail.","segmentIds":[2881],"dsgnations":[],"id":379},{"name":"Riding Run Trail","descriptn":"Begin at the scenic Everett Road Covered Bridge. Cross the Everett Road extension into the woods. This natural surface loop trail runs up and down steep hills. Watch for daffodils in the spring and deer throughout the year. Connect with the Perkins Trail for a longer loop. Horse trailer parking is available. Hikers must yield to horseback riders.","segmentIds":[3168,3166,3167],"dsgnations":[],"id":870},{"name":"Riding Run Trail","descriptn":null,"segmentIds":[3168,3166,3167],"dsgnations":[],"id":410},{"name":"Rock Creek Trail","descriptn":"The picturesque Rock Creek Trail leads hikers on a shaded, basic trail through beautiful beech-maple woods.","segmentIds":[2855],"dsgnations":[],"id":377},{"name":"Rock & Herb Garden","descriptn":"An accessible section of the Seneca Trail travels through the Rock & Herb Garden.","segmentIds":[2899],"dsgnations":[],"id":403},{"name":"Rockside Station Connector to Lock 39","descriptn":null,"segmentIds":[3219],"dsgnations":[],"id":896},{"name":"Salt Run Connector Trails","descriptn":null,"segmentIds":[3322],"dsgnations":[],"id":872},{"name":"Salt Run Trail","descriptn":"By the large dam halfway around the Lake Trail, the unpaved Salt Run Trail branches off to the west in a figure 8. A short cut midway around the elongated loop allows for a shorter or longer hike. This hilly, wooded trail features stands of pine, oak, hickory, beech, and hemlock. Those looking for a greater challenge can combine this with the Lake and Cross Country trails.   ","segmentIds":[3179],"dsgnations":[],"id":873},{"name":"Schumacher Trail","descriptn":"The hilly Schumacher Trail provides a closer look at some of Summit County's most pristine scenery.","segmentIds":[2896],"dsgnations":[],"id":371},{"name":"Seneca Trail","descriptn":"Seneca Trail is a partly unpaved loop leading visitors past pines, a deciduous forest and through an open prairie. Portions of the trail may be considered strenuous due to hilly terrain.","segmentIds":[2900],"dsgnations":[],"id":402},{"name":"Six Mile Flats Loop Trail","descriptn":null,"segmentIds":[3235],"dsgnations":[],"id":803},{"name":"Spring Hollow Trail","descriptn":"One of the park district's most demanding hikes; forms a sort of figure eight with Adam Run Trail. Travels through ravines and over streams and includes a 30-foot bridge.","segmentIds":[2868],"dsgnations":[],"id":392},{"name":"Stanford Connector","descriptn":"This short trail is firm and flat. North of Boston Store Visitor Center, it links the Towpath Trail with the more rugged Stanford Trail and the Brandywine Gorge Trail beyond. The historic Stanford House provides overnight lodging.","segmentIds":[3215],"dsgnations":[],"id":871},{"name":"Stanford Trail","descriptn":"This unpaved trail links the historic Stanford House and nearby Towpath Trail to the west with Brandywine Falls to the east. It is challenging because of several steep sections. In places, American beech trees tower overhead. Daffodils planted by the former landowners grow among the spring wildflowers. A side trail to Averill Pond is a good place to see wildlife. Stanford House offers overnight lodging.","segmentIds":[3221,3132,3216,3127,3220,3215],"dsgnations":[],"id":874},{"name":"Stanford Trail","descriptn":"This unpaved trail is challenging because of several steep sections. It begins at the historic Stanford House which offers overnight lodging. After running along an old farm field, the trail heads into the woods. American beech trees tower overhead. A side trail to Averill Pond is a good place to see wildlife. Daffodils planted by the former landowners still grow among the wildflowers in spring. This trail links the Towpath Trail and Brandywine Gorge Trail.","segmentIds":[3221,3132,3216,3127,3220,3215],"dsgnations":[],"id":427},{"name":"Station Road Bridge Connector Trail","descriptn":null,"segmentIds":[3180],"dsgnations":[],"id":899},{"name":"Station Road Bridge to Red Lock","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Trees line both sides of the path, creating arched canopies of shade. Enjoy views of the Cuyahoga River. The Old Carriage Trail branches off to the east in two spots. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Brecksville Station. In the winter, this section is popular with cross-country skiers.","segmentIds":[],"dsgnations":[],"id":884},{"name":"Station Road Bridge to Red Lock Buckeye Section","descriptn":null,"segmentIds":[3324,3313],"dsgnations":[],"id":816},{"name":"Station Road Bridge to Red Lock Shared Section","descriptn":null,"segmentIds":[3313],"dsgnations":[],"id":817},{"name":"Station Road Bridge to Red Lock Valley Section","descriptn":null,"segmentIds":[3120,3313],"dsgnations":[],"id":826},{"name":"Stream Restoration Trail","descriptn":"This trail takes you by the stream restoration project near Brushwood Lake.","segmentIds":[2854],"dsgnations":[],"id":378},{"name":"Sugarbush Trail","descriptn":"Sugarbush Trail loops through the city-run recreation area. The distance measured does not include the walk around the ballfield to the trailhead. For more information, please call the city of Twinsburg's Parks & Recreation Department at 330-963-8722.","segmentIds":[2847],"dsgnations":[],"id":393},{"name":"Tabletop Trail","descriptn":null,"segmentIds":[3149],"dsgnations":[],"id":875},{"name":"Tabletop Trail","descriptn":null,"segmentIds":[3149],"dsgnations":[],"id":423},{"name":"The Lower 40 Loop Trail","descriptn":null,"segmentIds":[3231],"dsgnations":[],"id":802},{"name":"Towpath Connector","descriptn":"Deep Lock Quarry Towpath Connector Trail connects to the Towpath Trail.","segmentIds":[2857],"dsgnations":[],"id":374},{"name":"Towpath Trail","descriptn":null,"segmentIds":[2859,3265,2909,2910,2911,3241,3258,3270,3271,3257,3240,3252,3269,3238,3239,3253,3251,3254,3255,3256,3268],"dsgnations":[],"id":915},{"name":"Towpath Trail","descriptn":null,"segmentIds":[2859,3265,2909,2910,2911,3241,3258,3270,3271,3257,3240,3252,3269,3238,3239,3253,3251,3254,3255,3256,3268],"dsgnations":[],"id":419},{"name":"Towpath Trail Bacci Park Aqueduct to West Canal Road","descriptn":null,"segmentIds":[3285],"dsgnations":[],"id":824},{"name":"Towpath Trail Barberton to Wolf Creek","descriptn":null,"segmentIds":[3256],"dsgnations":[],"id":928},{"name":"Towpath Trail Beech Street to Lock 3 Park","descriptn":null,"segmentIds":[3251],"dsgnations":[],"id":922},{"name":"Towpath Trail Big Bend to Memorial Parkway","descriptn":null,"segmentIds":[3239],"dsgnations":[],"id":918},{"name":"Towpath Trail Boston Store to Lock 29","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This section curves along the Cuyahoga River, connecting the villages of Boston and Peninsula. Walk under two impressive highway bridges that span the valley. Peninsula offers dining, unique shopping, and bicycle rentals. Use extra caution. This section can be congested. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Boston Mill Station and Peninsula Depot.","segmentIds":[3192,3319],"dsgnations":[],"id":886},{"name":"Towpath Trail Botzum to Portage Path","descriptn":null,"segmentIds":[3238],"dsgnations":[],"id":916},{"name":"Towpath Trail Canal Visitor Center to Fitzwater","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. In this section, stop at Canal Visitor Center to see exhibits and a reconstructed lock. Continue south over the Tinkers Creek Aqueduct and past historic Alexander’s Mill (now Wilson Feed Mill), built in 1855. During warm months, Bike Aboard! train service is available at Canal Visitor Center Station.","segmentIds":[3183],"dsgnations":[],"id":879},{"name":"Towpath Trail Clinton to Lake Lucerne","descriptn":null,"segmentIds":[3287],"dsgnations":[],"id":932},{"name":"Towpath Trail Clinton to Lake Lucerne (MPSSC)","descriptn":null,"segmentIds":[3287],"dsgnations":[],"id":933},{"name":"Towpath Trail Fitzwater to Frazee House","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Built around 1825, the Frazee is one of the oldest houses in the Cuyahoga Valley.","segmentIds":[3289],"dsgnations":[],"id":880},{"name":"Towpath Trail Franklin to Clinton","descriptn":null,"segmentIds":[3257],"dsgnations":[],"id":931},{"name":"Towpath Trail Frazee House to Station Road Bridge","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This section follows the only watered section of the canal within the national park. It passes under the scenic SR 82 bridge. Use extra caution just south of the Frazee House. There is a short water crossing with a fall-hazard and no guard rails. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. All must yield to horseback riders. During warm months, Bike Aboard! train service is available at Brecksville Station.","segmentIds":[3307],"dsgnations":[],"id":881},{"name":"Towpath Trail Harvard Road to Leonard Krieger CanalWay Center","descriptn":null,"segmentIds":[],"dsgnations":[],"id":821},{"name":"Towpath Trail Hunt Farm to Ira","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This is a popular section for wildlife watching. Look for beaver, muskrat, otter, waterfowl, songbirds, snakes, and turtles. Linger along the boardwalk across the Beaver Marsh. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Indigo Lake Station. Access the station using the Hale Farm Trail or continue to Hale Farm & Village.","segmentIds":[3133],"dsgnations":[],"id":892},{"name":"Towpath Trail Ira to Botzum","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Much of this section hugs Riverview Road. Stop for traffic at the two road crossings. Little remains of the canal here, except the ruins of Locks 25 and 24. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Botzum Station.","segmentIds":[3191,3193,3194],"dsgnations":[],"id":895},{"name":"Towpath Trail Leonard Krieger CanalWay Center To Bacci Park Aqueduct","descriptn":null,"segmentIds":[],"dsgnations":[],"id":823},{"name":"Towpath Trail Lock 29 to Hunt Farm ","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Use extra caution in the Lock 29 area. It can be congested. The trail becomes steep and narrow as it climbs the height of the lock and over the Cuyahoga River. At Lock 28, called Deep Lock, you can take a connector trail to explore Deep Lock Quarry Metro Park. Bring your binoculars in the spring for bird watching. Hunt Farm is in the historic village of Everett and provides basic visitor services. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Peninsula Depot.","segmentIds":[],"dsgnations":[],"id":890},{"name":"Towpath Trail Lock 39 to Canal Visitor Center","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This leg takes you to Lock 38 and the Canal Visitor Center. It follows the only watered section of the canal within the national park. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Rockside and Canal Visitor Center stations.","segmentIds":[3218],"dsgnations":[],"id":878},{"name":"Towpath Trail Lock 3 Park to Richard Howe House","descriptn":null,"segmentIds":[3270,3271,3269],"dsgnations":[],"id":923},{"name":"Towpath Trail Manchester Road to Barberton","descriptn":null,"segmentIds":[],"dsgnations":[],"id":927},{"name":"Towpath Trail Memorial Parkway to Mustill Store","descriptn":null,"segmentIds":[],"dsgnations":[],"id":919},{"name":"Towpath Trail Mustill Store To Beech Street ","descriptn":null,"segmentIds":[],"dsgnations":[],"id":920},{"name":"Towpath Trail Portage Path to Big Bend","descriptn":null,"segmentIds":[3240],"dsgnations":[],"id":917},{"name":"Towpath Trail Red Lock to Boston Store","descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This section passes the site of the Jaite Paper Mill. A connector trail branches off to Stanford House and trails beyond. Stop at Boston Store Visitor Center for trip planning and exhibits. Next door, the historic M.D. Garage offers free art exhibits on weekends from late April through October. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Boston Mill Station.","segmentIds":[3156,3181,3182],"dsgnations":[],"id":885},{"name":"Towpath Trail Richard Howe House to Summit Lake","descriptn":null,"segmentIds":[],"dsgnations":[],"id":924},{"name":"Towpath Trail Steelyard Commons to Harvard Road","descriptn":null,"segmentIds":[3233,3234,3282],"dsgnations":[],"id":820},{"name":"Towpath Trail Summit Lake Park to Wilbeth Road","descriptn":null,"segmentIds":[],"dsgnations":[],"id":925},{"name":"Towpath Trail Vanderhoof Road to Franklin","descriptn":null,"segmentIds":[3258],"dsgnations":[],"id":930},{"name":"Towpath Trail West Canal Road to Lock 39","descriptn":null,"segmentIds":[3237],"dsgnations":[],"id":825},{"name":"Towpath Trail Wilbeth Road to Manchester Road","descriptn":null,"segmentIds":[3255],"dsgnations":[],"id":926},{"name":"Towpath Trail Wolf Creek to Vanderhoof Road","descriptn":null,"segmentIds":[3268],"dsgnations":[],"id":929},{"name":"Tree Farm Trail","descriptn":"This unpaved loop trail starts near Horseshoe Pond and gently rolls through fields and forests. The property was once part of what is now Heritage Farms in Peninsula. Notice the rows of overgrown Christmas trees. The mixed habitats support a variety of wildlife, making the trail popular with birdwatchers. A bench with a pleasant view is available at the halfway point. From the parking lot, the short Horseshoe Pond Trail provides access to a wheelchair-accessible fishing pier and a picnic pavilion. In winter, this is a great place for cross-country skiers who can handle hills.","segmentIds":[3158],"dsgnations":[],"id":876},{"name":"Valley and Langes Run Shared Sections","descriptn":null,"segmentIds":[3187],"dsgnations":[],"id":901},{"name":"Valley and Wetmore Shared Section","descriptn":null,"segmentIds":[3122,3121],"dsgnations":[],"id":911},{"name":"Valley Bridle Trail","descriptn":null,"segmentIds":[],"dsgnations":[],"id":408},{"name":"Valley Link Trail","descriptn":"The moderate Valley Link Trail connect Sand Run Metro Park and Cascade Valley Metro Park / North.","segmentIds":[2897,2905],"dsgnations":[],"id":372},{"name":"Valley Trail","descriptn":null,"segmentIds":[3311,3192,3120,3122,3155,3308,3172,3214,3187,3171,3138,3195,3213,3215,3323,3208,3121,3313],"dsgnations":[],"id":426},{"name":"Valley Trail","descriptn":"Valley Trail winds through the Cuyahoga Valley, connecting Cuyahoga Valley National Park bridle trails in the south with Cleveland Metroparks bridle trails in the north. Hikers must yield to horseback riders. On this site, you can explore the trail by section.","segmentIds":[3311,3192,3120,3122,3155,3308,3172,3214,3187,3171,3138,3195,3213,3215,3323,3208,3121,3313],"dsgnations":[],"id":902},{"name":"Valley Trail between Boston and Pine Lane","descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks trails in the north. This section travels between Boston Store Visitor Center, along to Pine Lane. Park horse trailers permitted in the overflow lot for Boston Store Visitor Center. All trail users must yield to horseback riders.","segmentIds":[3213],"dsgnations":[],"id":906},{"name":"Valley Trail between Frazee House and Station Road Bridge","descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks bridle trails in the north. This section follows the Ohio & Erie Canal Towpath Trail along the Pinnery Narrows. Station Bridge Road Trailhead has pull-through parking spaces for horse trailers. Frazee House has no trailer parking. ","segmentIds":[3155],"dsgnations":[],"id":903},{"name":"Valley Trail between Red Lock and Boston","descriptn":null,"segmentIds":[3172],"dsgnations":[],"id":905},{"name":"Valley Trail between Red Lock and Station Road Bridge","descriptn":null,"segmentIds":[3171],"dsgnations":[],"id":904},{"name":"Valley Trail Hunt Farm to Everett Covered Bridge","descriptn":null,"segmentIds":[3323,3208],"dsgnations":[],"id":910},{"name":"Valley Trail Pine Lane to Wetmore","descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks trails in the north. This section travels between Pine Lane Trailhead, crossing over Route 303, along the Cuyahoga River and entry into the Wetmore trail system. Use extra caution at road crossings. Horse trailer parking available at Wetmore Trailhead. All trail users must yield to horseback riders.","segmentIds":[3195],"dsgnations":[],"id":908},{"name":"Valley Trail Wetmore to Hunt Farm","descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks bridle trails in the north. This section travels between the Wetmore Trail system, through the bottomlands of the Cuyahoga River Valley to Hunt Farm and onto the Everett Covered Bridge near Everett Road.  It is mostly flat and travels beside farm fields. ","segmentIds":[3187,3138],"dsgnations":[],"id":909},{"name":"Walking Trail","descriptn":"The easy Walking Course is a favorite among seniors and young families. It passes the Tuscarawas Race and connects to Willow Trail.","segmentIds":[],"dsgnations":[],"id":380},{"name":"Weaver School Connector Trail","descriptn":"Connects the Tallmadge Meadows Area to Weaver School.","segmentIds":[],"dsgnations":[],"id":399},{"name":"Wetmore Trail","descriptn":"In addition to 14 developed parks and more than 125 miles of trails, Metro Parks manages several conservation areas for the purpose of preserving Summit County’s natural resources. In 1974, the National Park Service acquired thousands of acres that were managed by Metro Parks, including Virginia Kendall Park. Despite this acquisition, Metro Parks retained 572 wooded acres – today’s Wetmore Conservation Area. It includes great forests, steep ravines and high-quality stream corridors. The land is accessible via bridle trails maintained by Cuyahoga Valley National Park.","segmentIds":[3141,3139,3140,3142,3144,3122,3145,3173,3146,3148,3147,3143,3121],"dsgnations":[],"id":422},{"name":"Wetmore Trail","descriptn":"Enjoy wildflowers deep woods, clear creeks, and solitude. Wetmore Trail is a loop trail that offers a variety of terrain on the trail. Watch trail signs and respect trail closures. Link to Langes Run and Butler trails for a longer ride. Horse trailer parking is available. Hikers must yield to horseback riders.","segmentIds":[3141,3139,3140,3142,3144,3122,3145,3173,3146,3148,3147,3143,3121],"dsgnations":[],"id":912},{"name":"Willow Trail","descriptn":"Willow Trail passes the Tuscarawas Race, Tuscarawas River and Little Turtle Pond, where young anglers 15 and under can fish.","segmentIds":[2882],"dsgnations":[],"id":381},{"name":"Wood Hollow Trail","descriptn":"NOTE: Not yet open to the public. Wood Hollow's trail will travel past forests and wetlands.","segmentIds":[2858],"dsgnations":[],"id":420}]
+[
+  {
+    "name":"Adam Run Trail",
+    "descriptn":"One of the park district's most demanding hikes; forms a sort of figure eight with Spring Hollow Trail. Travels through ravines and over streams.",
+    "segmentIds":[
+      2869
+    ],
+    "dsgnations":[
+
+    ],
+    "id":391
+  },
+  {
+    "name":"Akron Northside Connector to the Towpath Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3272
+    ],
+    "dsgnations":[
+
+    ],
+    "id":921
+  },
+  {
+    "name":"Albermarle Connector Trail",
+    "descriptn":"Gorge Metro Park connector trail to the neighborhoods to the north and east of the park.",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":385
+  },
+  {
+    "name":"Alder Trail",
+    "descriptn":"Alder Trail leads through the woods to Alder Pond, where a cattail marsh provides good wildlife habitat.",
+    "segmentIds":[
+      2878
+    ],
+    "dsgnations":[
+
+    ],
+    "id":390
+  },
+  {
+    "name":"Alexander Road to Egbert Picnic Area Bridle Section",
+    "descriptn":null,
+    "segmentIds":[
+      3295
+    ],
+    "dsgnations":[
+
+    ],
+    "id":807
+  },
+  {
+    "name":"Alexander Road to Egbert Picnic Area Buckeye Section",
+    "descriptn":"",
+    "segmentIds":[
+      3301,
+      3296
+    ],
+    "dsgnations":[
+
+    ],
+    "id":814
+  },
+  {
+    "name":"Alexander Road to Egbert Picnic Area Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3306
+    ],
+    "dsgnations":[
+
+    ],
+    "id":813
+  },
+  {
+    "name":"Armington Cross Country Connector Trail",
+    "descriptn":"",
+    "segmentIds":[
+      3225
+    ],
+    "dsgnations":[
+
+    ],
+    "id":827
+  },
+  {
+    "name":"Bedford Reservation Bridle Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3295,
+      3303,
+      3300,
+      3294,
+      3301,
+      3305,
+      3298,
+      3299,
+      3292,
+      3302,
+      3306,
+      3297,
+      3291,
+      3304
+    ],
+    "dsgnations":[
+
+    ],
+    "id":805
+  },
+  {
+    "name":"Big Bend Connector",
+    "descriptn":"Connects to the Towpath Trail.",
+    "segmentIds":[
+      2904
+    ],
+    "dsgnations":[
+
+    ],
+    "id":418
+  },
+  {
+    "name":"Bike & Hike Alexander Road to SR 82 North",
+    "descriptn":null,
+    "segmentIds":[
+      3274,
+      3273
+    ],
+    "dsgnations":[
+
+    ],
+    "id":794
+  },
+  {
+    "name":"Bike & Hike Bike & Hike Trail Boston Mills Road Connector",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":799
+  },
+  {
+    "name":"Bike & Hike Boston Mills Road to SR 303",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":800
+  },
+  {
+    "name":"Bike & Hike Brandywine Falls to Boston Mills Road",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":798
+  },
+  {
+    "name":"Bike & Hike Connector",
+    "descriptn":"Bike & Hike Connector extends the Bike & Hike Trail to connect the northern and southern legs of the Bike & Hike Trail.",
+    "segmentIds":[
+      2867
+    ],
+    "dsgnations":[
+
+    ],
+    "id":365
+  },
+  {
+    "name":"Bike & Hike Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":804
+  },
+  {
+    "name":"Bike & Hike SR 82 South to Brandywine Falls",
+    "descriptn":null,
+    "segmentIds":[
+      3275
+    ],
+    "dsgnations":[
+
+    ],
+    "id":795
+  },
+  {
+    "name":"Bike & Hike Trail",
+    "descriptn":"All 34 miles of the Bike & Hike trail are paved. Some portions of the trail use neighborhood streets. Please follow the green biking signs until you rejoin the established trail. For your convenience, restrooms are located at the Brandywine Falls, SR 303, Springdale, Silver Springs and SR 91 lots.",
+    "segmentIds":[
+      2860,
+      2861,
+      2862,
+      2863,
+      2864,
+      2865,
+      2866,
+      3276,
+      3275,
+      3181,
+      3280,
+      3281,
+      3274,
+      3316,
+      3273
+    ],
+    "dsgnations":[
+
+    ],
+    "id":364
+  },
+  {
+    "name":"Bike & Hike Trail Brandywine Falls Connector",
+    "descriptn":null,
+    "segmentIds":[
+      3221
+    ],
+    "dsgnations":[
+
+    ],
+    "id":797
+  },
+  {
+    "name":"Bike & Hike Trail Connector at SR 303",
+    "descriptn":null,
+    "segmentIds":[
+      3277
+    ],
+    "dsgnations":[
+
+    ],
+    "id":801
+  },
+  {
+    "name":"Bike & Hike Trail (NPS)",
+    "descriptn":null,
+    "segmentIds":[
+      3221
+    ],
+    "dsgnations":[
+
+    ],
+    "id":830
+  },
+  {
+    "name":"Blue Hen Falls Trail",
+    "descriptn":"This short trail is rough and steep in places, descending to a scenic creek. The lovely Blue Hen Falls is a favorite with photographers, especially in fall and winter. The water erodes the rock at its base, creating attractive potholes and plunge pools. To prevent personal injury and protect the fragile habitat, please stay behind the trail fence. For a longer hike, continue on the Buckeye Trail.",
+    "segmentIds":[
+      3169,
+      3315
+    ],
+    "dsgnations":[
+
+    ],
+    "id":831
+  },
+  {
+    "name":"Blue Hen Falls Trail Shared Buckeye Section",
+    "descriptn":null,
+    "segmentIds":[
+      3315
+    ],
+    "dsgnations":[
+
+    ],
+    "id":832
+  },
+  {
+    "name":"Boston Run Trail",
+    "descriptn":"This unpaved loop trail is mostly wooded, featuring stands of grey-barked beech trees and a ravine of hemlocks. It twice crosses the tributary of the Cuyahoga River for which the trail is named. The length and moderate hills make this a good choice for intermediate-level cross-country skiers and runners. Watch for birds that prefer mature forests. ",
+    "segmentIds":[
+      3131,
+      3129,
+      3128,
+      3130
+    ],
+    "dsgnations":[
+
+    ],
+    "id":833
+  },
+  {
+    "name":"Boston to Pine Lane Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3311
+    ],
+    "dsgnations":[
+
+    ],
+    "id":907
+  },
+  {
+    "name":"Boston to Pine Lane Towpath Buckeye Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3318
+    ],
+    "dsgnations":[
+
+    ],
+    "id":888
+  },
+  {
+    "name":"Boston to Pine Lane Towpath Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3192
+    ],
+    "dsgnations":[
+
+    ],
+    "id":887
+  },
+  {
+    "name":"Brandywine Falls Boardwalk",
+    "descriptn":"This short, hard-surfaced trail offers views of the 65-foot Brandywine Falls—one of the most popular destination in this national park. The boardwalk, upper observation platform, picnic area, and restrooms are stroller and wheelchair accessible. Steep stairs to the lower viewing platform are closed during slippery conditions.",
+    "segmentIds":[
+      3221,
+      3220
+    ],
+    "dsgnations":[
+
+    ],
+    "id":828
+  },
+  {
+    "name":"Brandywine Gorge Trail",
+    "descriptn":"Spring wildflowers, autumn leaves, and frozen cascades of winter ice make this an enjoyable route all year. The unpaved trail takes you from 65-foot Brandywine Falls down into the steep gorge where you can loop back on part of the Stanford Trail. Overlooking the falls are ruins of past industry and the historic Inn at Brandywine Falls. A short boardwalk next to the parking lot (the Brandywine Falls Trail) provides photogenic views of the thundering water.",
+    "segmentIds":[
+      3221,
+      3189,
+      3220,
+      3316
+    ],
+    "dsgnations":[
+
+    ],
+    "id":829
+  },
+  {
+    "name":"Brandywine Gorge Trail and Bike & Hike Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3316
+    ],
+    "dsgnations":[
+
+    ],
+    "id":796
+  },
+  {
+    "name":"Bridle Trail",
+    "descriptn":"The Bridle Trail at Silver Creek Metro Park is the only horseback trail managed by Metro Parks, Serving Summit County.",
+    "segmentIds":[
+      2890
+    ],
+    "dsgnations":[
+
+    ],
+    "id":414
+  },
+  {
+    "name":"Buckeye Trail",
+    "descriptn":"",
+    "segmentIds":[
+      3311,
+      3317,
+      3192,
+      3217,
+      3157,
+      3175,
+      3278,
+      3325,
+      3293,
+      3309,
+      3310,
+      3312,
+      3180,
+      3133,
+      3301,
+      3305,
+      3193,
+      3306,
+      3296,
+      3315,
+      3318,
+      3323,
+      3324,
+      3273,
+      3290,
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":366
+  },
+  {
+    "name":"Buckeye Trail",
+    "descriptn":"The Buckeye Trail circles Ohio and is managed by the Buckeye Trail Association. Within Summit County, the trail is often rugged and scenic as it passes through several parks. Follow blue blazes painted on trees and telephone poles. On this site, you can explore the trail by section. For more information, visit www.buckeyetrail.org.",
+    "segmentIds":[
+      3311,
+      3317,
+      3192,
+      3217,
+      3157,
+      3175,
+      3278,
+      3325,
+      3293,
+      3309,
+      3310,
+      3312,
+      3180,
+      3133,
+      3301,
+      3305,
+      3193,
+      3306,
+      3296,
+      3315,
+      3318,
+      3323,
+      3324,
+      3273,
+      3290,
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":812
+  },
+  {
+    "name":"Buckeye Trail Boston Store to Pine Lane",
+    "descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. From Boston Store Visitor Center, this unpaved section overlaps the Towpath and Valley Bridle trails near the Cuyahoga River. Hikers must yield to horseback riders. The trail climbs the steep east rim of the valley. This section features diverse forest habitats.",
+    "segmentIds":[
+      3310
+    ],
+    "dsgnations":[
+
+    ],
+    "id":837
+  },
+  {
+    "name":"Buckeye Trail Connector from Pine Lane to Towpath",
+    "descriptn":null,
+    "segmentIds":[
+      3317,
+      3175
+    ],
+    "dsgnations":[
+
+    ],
+    "id":838
+  },
+  {
+    "name":"Buckeye Trail Hunt Farm to Ira",
+    "descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. This section follows the Towpath Trail to Ira Road. ",
+    "segmentIds":[
+      3133
+    ],
+    "dsgnations":[
+
+    ],
+    "id":840
+  },
+  {
+    "name":"Buckeye Trail Ira to Botzum",
+    "descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. This section follows the Towpath Trail to Ira Road. The Buckeye branches off along Ira Road and climbs steeply to O'Neill Woods Metro Park and connection back to the Towpath Trail just south of Yellow Creek Road.  Part of the trail follows jeep paths on the Botzum farmstead. Enjoy lovely views of beech forests, farm fields, and meadows from the ridge above the valley.",
+    "segmentIds":[
+      3278,
+      3325,
+      3312,
+      3193
+    ],
+    "dsgnations":[
+
+    ],
+    "id":839
+  },
+  {
+    "name":"Buckeye Trail Jaite Connector",
+    "descriptn":null,
+    "segmentIds":[
+      3217
+    ],
+    "dsgnations":[
+
+    ],
+    "id":835
+  },
+  {
+    "name":"Buckeye Trail Lock 29 to Hunt Farm ",
+    "descriptn":"The Buckeye Trail circles Ohio. Within the national park, the trail is often rugged and scenic. Follow blue blazes painted on trees. In this section, the unpaved trail joins the flat, firm Towpath Trail in Peninsula. Highlights include the historic Village of Peninsula, ruins along the Ohio & Erie Canal, an optional side trip to Deep Lock Quarry, and views of the Cuyahoga River. This section has several options for restrooms, visitor information, and food. ",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":889
+  },
+  {
+    "name":"Butler Trail",
+    "descriptn":"Begin this short, natural surface connector trail at the Wetmore Trailhead. A portion of this trail uses an old brick road. Travel down into the Langes Run bottomlands to enjoy the cottonwood and sycamore trees. Wildflowers are abundant in the spring. Loop back on Lange Run Trail. Be careful at the road crossings. Horse trailer parking is available at Wetmore.",
+    "segmentIds":[
+      3211
+    ],
+    "dsgnations":[
+
+    ],
+    "id":834
+  },
+  {
+    "name":"Buttonbush Trail",
+    "descriptn":"The trail follows an old service road, where vehicles once traveled to and from oil wells, last used in 2003. Today, you'll walk between two large buttonbush swamps. The trail's namesake, the buttonbush, is a flowering shrub that grows in shallow water about one to two feet deep.",
+    "segmentIds":[
+      2846
+    ],
+    "dsgnations":[
+
+    ],
+    "id":394
+  },
+  {
+    "name":"Cherry Lane Trail",
+    "descriptn":"Cherry Lane Trail is an easy-to-travel loop that connects to Fernwood Trail at a 110-foot-long suspension bridge, taking visitors across a 45-foot-deep ravine.",
+    "segmentIds":[
+      2901
+    ],
+    "dsgnations":[
+
+    ],
+    "id":404
+  },
+  {
+    "name":"Chippewa Trail",
+    "descriptn":"Along Chippewa Trail, mature trees have grown from thousands of seedlings planted by Girl Scout troops between 1967 and 1983.",
+    "segmentIds":[
+      2888
+    ],
+    "dsgnations":[
+
+    ],
+    "id":413
+  },
+  {
+    "name":"Chuckery Trail",
+    "descriptn":"This difficult trail gives hikers a glimpse of the Indian Signal Tree, reportedly shaped by American Indians, before passing the Cuyahoga River, crossing the parkway and heading uphill; then it loops back to the start.",
+    "segmentIds":[
+      2891
+    ],
+    "dsgnations":[
+
+    ],
+    "id":369
+  },
+  {
+    "name":"Connector Trail",
+    "descriptn":"Gorge Connector Trail offers pedestrian entrance to the park from Front Street.",
+    "segmentIds":[
+      2886,
+      3232,
+      3321,
+      3235
+    ],
+    "dsgnations":[
+
+    ],
+    "id":387
+  },
+  {
+    "name":"Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+      2886,
+      3232,
+      3321,
+      3235
+    ],
+    "dsgnations":[
+
+    ],
+    "id":843
+  },
+  {
+    "name":"Connector Trail to Averill Pond",
+    "descriptn":null,
+    "segmentIds":[
+      3216,
+      3127
+    ],
+    "dsgnations":[
+
+    ],
+    "id":842
+  },
+  {
+    "name":"Cross Country Trail",
+    "descriptn":"This unpaved, rolling trail was designed for intermediate cross-country skiing, but is also good for hiking. Starting at Kendall Lake parking lot, the trail curves and dips in a loop around the upper waters of Salt Run. Although the route is mostly wooded, it does open out on the Kendall Hills and provide opportunities for downhill runs. Watch for whizzing sleds. Winter hikers should yield to skiers and avoid stepping in ski tracks. When there is adequate snowfall, the Winter Sport Center at Kendall Lake Shelter offers equipment rental, cocoa, helpful tips, and a place to warm up.",
+    "segmentIds":[
+      3321,
+      3224,
+      3206
+    ],
+    "dsgnations":[
+
+    ],
+    "id":841
+  },
+  {
+    "name":"Cross Country Trail and Lake Trail Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3206
+    ],
+    "dsgnations":[
+
+    ],
+    "id":853
+  },
+  {
+    "name":"CVC Station Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3226
+    ],
+    "dsgnations":[
+
+    ],
+    "id":897
+  },
+  {
+    "name":"Daffodil Trail",
+    "descriptn":"An estimated 40,000 daffodils -- including dozens of varieties -- bloom each spring along the H.S. Wagner Daffodil Trail, named for the park district's first director-secretary, who planted the first bulbs here in the late 1930s. Peak bloom is typically mid-April.",
+    "segmentIds":[
+      2852
+    ],
+    "dsgnations":[
+
+    ],
+    "id":375
+  },
+  {
+    "name":"Deer Run and Buckeye Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3278
+    ],
+    "dsgnations":[
+
+    ],
+    "id":914
+  },
+  {
+    "name":"Deer Run Trail",
+    "descriptn":"The challenging, and aptly-named, Deer Run Trail follows a path worn by white-tailed deer and provides scenic views of the Cuyahoga River Valley. How many steps do you count on the hike back to the top?",
+    "segmentIds":[
+      3278,
+      3279
+    ],
+    "dsgnations":[
+
+    ],
+    "id":407
+  },
+  {
+    "name":"Deer Run Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3278,
+      3279
+    ],
+    "dsgnations":[
+
+    ],
+    "id":913
+  },
+  {
+    "name":"Dickerson Run Trail",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":424
+  },
+  {
+    "name":"Dogwood Trail",
+    "descriptn":"Explore shady valley and ridge-top terrain along the wooded and challenging Dogwood Trail.",
+    "segmentIds":[
+      2907
+    ],
+    "dsgnations":[
+
+    ],
+    "id":416
+  },
+  {
+    "name":"Egbert Picnic Area Bridle Section",
+    "descriptn":null,
+    "segmentIds":[
+      3294
+    ],
+    "dsgnations":[
+
+    ],
+    "id":810
+  },
+  {
+    "name":"Egbert Picnic Area Buckeye Section",
+    "descriptn":null,
+    "segmentIds":[
+      3293
+    ],
+    "dsgnations":[
+
+    ],
+    "id":815
+  },
+  {
+    "name":"Egbert Picnic Area Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3301
+    ],
+    "dsgnations":[
+
+    ],
+    "id":809
+  },
+  {
+    "name":"Fernwood Trail",
+    "descriptn":"Fernwood Trail is an easy-to-travel loop that connects to Cherry Lane Trail at a 110-foot-long suspension bridge, taking visitors across a 45-foot-deep ravine.",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":405
+  },
+  {
+    "name":"Fitzwater Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3288
+    ],
+    "dsgnations":[
+
+    ],
+    "id":898
+  },
+  {
+    "name":"Forest Point Trail",
+    "descriptn":"Enjoy the unique architecture of Octagon Shelter, built in the 1930s by the Civilian Conservation Corps.  Cross the grassy playfield behind the rental shelter to find the trailhead at the far end. The flat, unpaved trail forms a short wooded loop that is perfect for families with young children",
+    "segmentIds":[
+      3162
+    ],
+    "dsgnations":[
+
+    ],
+    "id":844
+  },
+  {
+    "name":"Frazee House to Alexander Road Bridle Section",
+    "descriptn":null,
+    "segmentIds":[
+      3305,
+      3292,
+      3291,
+      3304
+    ],
+    "dsgnations":[
+
+    ],
+    "id":806
+  },
+  {
+    "name":"Frazee House to Alexander Road Buckeye Section",
+    "descriptn":null,
+    "segmentIds":[
+      3273,
+      3290
+    ],
+    "dsgnations":[
+
+    ],
+    "id":811
+  },
+  {
+    "name":"Frazee House to Station Road Bridge Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3308
+    ],
+    "dsgnations":[
+
+    ],
+    "id":882
+  },
+  {
+    "name":"Frazee House to Station Road Bridge Towpath Trail Sections",
+    "descriptn":null,
+    "segmentIds":[
+      3307
+    ],
+    "dsgnations":[
+
+    ],
+    "id":883
+  },
+  {
+    "name":"Freedom Trail",
+    "descriptn":"The Freedom Trail travels 4.2 miles between the Middlebury Lot to Tallmadge Circle. When completed, this eight-mile multipurpose trail will connect Akron and Kent and become another popular linear park managed by Metro Parks, Serving Summit County.",
+    "segmentIds":[
+      2912
+    ],
+    "dsgnations":[
+
+    ],
+    "id":382
+  },
+  {
+    "name":"Furnace Ridge Overlook",
+    "descriptn":null,
+    "segmentIds":[
+      3230
+    ],
+    "dsgnations":[
+
+    ],
+    "id":818
+  },
+  {
+    "name":"Furnace Ridge Overlook Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3232
+    ],
+    "dsgnations":[
+
+    ],
+    "id":819
+  },
+  {
+    "name":"Furnace Run Trail",
+    "descriptn":"Begin this natural surface, hilly trail at Everett Road Covered Bridge Trailhead. Cross Everett Road and then climb steep steps up the valley wall. Cross Oak Hill Road and take a steep loop to explore Furnace Run. This area near the stream is covered with Virginia bluebells in spring. For the security of children, Cuyahoga Valley Environmental Education Center and its trails are closed to the public.",
+    "segmentIds":[
+      3207,
+      3123,
+      3124,
+      3190
+    ],
+    "dsgnations":[
+
+    ],
+    "id":845
+  },
+  {
+    "name":"Glens Trail",
+    "descriptn":"Glens Trail provides views from the edge of the Cuyahoga River. Springs flow from the ledges along this trail, providing water needed for liverwort.",
+    "segmentIds":[
+      2883
+    ],
+    "dsgnations":[
+
+    ],
+    "id":384
+  },
+  {
+    "name":"Gorge Trail",
+    "descriptn":"Gorge Trail provides access to Mary Campbell Cave, an easy half-mile walk from the parking lot. At the start of the trail, a short (half-mile, round trip) section earns Class B status and is good for users with wheelchairs, walkers, canes and strollers. The trail quickly becomes more rugged as it passes through stunning rock-ledge formations. An upper section of the trail is even considered \"primitive,\" earning Class D status.",
+    "segmentIds":[
+      2885
+    ],
+    "dsgnations":[
+
+    ],
+    "id":383
+  },
+  {
+    "name":"Hale Farm Connector",
+    "descriptn":"This firm, flat trail connects the Towpath Trail to Hale Farm & Village. It passes Indigo Lake and provides trail access to the Indigo Lake Station. At times, a shuttle carries train passengers to the living history museum. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal.",
+    "segmentIds":[
+      3210,
+      3209
+    ],
+    "dsgnations":[
+
+    ],
+    "id":846
+  },
+  {
+    "name":"Haskell Run Trail",
+    "descriptn":"This short, unpaved loop trail descends a steep slope into a scenic ravine and follows a meandering stream. The cool, moist environment is perfect for water-loving plants. A variety of songbirds, amphibians, and mammals make their homes here. There is a link to the Ledge Trail and Ice Box Cave (closed for bat protection). It is a good choice for families with young children.",
+    "segmentIds":[
+      3161,
+      3160
+    ],
+    "dsgnations":[
+
+    ],
+    "id":848
+  },
+  {
+    "name":"Hemlock Creek Bridle Section",
+    "descriptn":null,
+    "segmentIds":[
+      3303,
+      3300,
+      3298,
+      3299,
+      3302,
+      3297
+    ],
+    "dsgnations":[
+
+    ],
+    "id":808
+  },
+  {
+    "name":"Hemlock Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3134
+    ],
+    "dsgnations":[
+
+    ],
+    "id":849
+  },
+  {
+    "name":"Highbridge Trail",
+    "descriptn":"The moderate Highbridge Trail connects Gorge Metro Park and Cascade Valley Metro Park / South.",
+    "segmentIds":[
+      2884
+    ],
+    "dsgnations":[
+
+    ],
+    "id":386
+  },
+  {
+    "name":"Holzhauer Road",
+    "descriptn":null,
+    "segmentIds":[
+      3227
+    ],
+    "dsgnations":[
+
+    ],
+    "id":862
+  },
+  {
+    "name":"Horseshoe Pond Trail",
+    "descriptn":"This short, flat, firm trail provides access from the parking lot to a wheelchair-accessible fishing pier and a picnic pavilion overlooking Horseshow Pond. This is a popular place to view fall colors. The trail links with the longer, unpaved Tree Farm Trail.",
+    "segmentIds":[
+      3320
+    ],
+    "dsgnations":[
+
+    ],
+    "id":847
+  },
+  {
+    "name":"Hunt Farm to Ira Towpath Buckeye Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3133
+    ],
+    "dsgnations":[
+
+    ],
+    "id":893
+  },
+  {
+    "name":"Indian Spring Trail",
+    "descriptn":"Inside the Lake Area, Indian Spring Trail loops through two types of forests and near wetlands, ponds, a stream and the trail's namesake, an old spring.",
+    "segmentIds":[
+      2870
+    ],
+    "dsgnations":[
+
+    ],
+    "id":396
+  },
+  {
+    "name":"Indigo Lake Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3209
+    ],
+    "dsgnations":[
+
+    ],
+    "id":850
+  },
+  {
+    "name":"Ira Towpath Buckeye Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3193
+    ],
+    "dsgnations":[
+
+    ],
+    "id":894
+  },
+  {
+    "name":"Jaite to Boston Store Buckeye Section",
+    "descriptn":null,
+    "segmentIds":[
+      3309,
+      3315
+    ],
+    "dsgnations":[
+
+    ],
+    "id":836
+  },
+  {
+    "name":"Jogging Trail",
+    "descriptn":"The Parkway Jogging Trail is the most popular in the park district, averaging more than 1,000 users a day, year-round.",
+    "segmentIds":[
+      2906
+    ],
+    "dsgnations":[
+
+    ],
+    "id":415
+  },
+  {
+    "name":"Kendall Hills Connector Trails",
+    "descriptn":null,
+    "segmentIds":[
+      3223
+    ],
+    "dsgnations":[
+
+    ],
+    "id":851
+  },
+  {
+    "name":"Kendall Lake Connector Trails",
+    "descriptn":null,
+    "segmentIds":[
+      3178
+    ],
+    "dsgnations":[
+
+    ],
+    "id":852
+  },
+  {
+    "name":"Lake Trail",
+    "descriptn":"The trail starts at Kendall Lake Shelter, built as a bathhouse in the 1930s by the Civilian Conservation Corps. It circles in a short, unpaved loop around Kendall Lake. Check for water-loving birds and turtles in the small coves. Beavers have chewed many trees along the shorelines. Although the path is relatively flat, there are steep stairs in places. It is a good choice for families with young children.",
+    "segmentIds":[
+      3150,
+      3151,
+      3321,
+      3153,
+      3152,
+      3206
+    ],
+    "dsgnations":[
+
+    ],
+    "id":859
+  },
+  {
+    "name":"Langes Run Trail",
+    "descriptn":"This trail begins at the Wetmore Trailhead, crosses the road twice, and then loops back via the Wetmore Trail. Watch trail signs and respect trail closures. A variety of habitats provides a little of everything. Enjoy meadows in the highlands, streams and ponds in the lowlands, and steep, wooded slopes. Horse trailer parking is available at Wetmore Trailhead. Hikers must yield to horseback riders.",
+    "segmentIds":[
+      3184,
+      3185,
+      3186,
+      3187,
+      3222
+    ],
+    "dsgnations":[
+
+    ],
+    "id":425
+  },
+  {
+    "name":"Langes Run Trail",
+    "descriptn":"This trail begins at the Wetmore Trailhead, crosses the road twice, and then loops back via the Wetmore Trail. Watch trail signs and respect trail closures. A variety of habitats provides a little of everything. Enjoy meadows in the highlands, streams and ponds in the lowlands, and steep, wooded slopes. Horse trailer parking is available at Wetmore Trailhead. Hikers must yield to horseback riders.",
+    "segmentIds":[
+      3184,
+      3185,
+      3186,
+      3187,
+      3222
+    ],
+    "dsgnations":[
+
+    ],
+    "id":858
+  },
+  {
+    "name":"Ledges Connector Trails",
+    "descriptn":null,
+    "segmentIds":[
+      3188
+    ],
+    "dsgnations":[
+
+    ],
+    "id":855
+  },
+  {
+    "name":"Ledges to Haskell Run Connector Trail",
+    "descriptn":"",
+    "segmentIds":[
+      3159
+    ],
+    "dsgnations":[
+
+    ],
+    "id":854
+  },
+  {
+    "name":"Ledges to Pine Grove Connector Trails",
+    "descriptn":"",
+    "segmentIds":[
+      3176
+    ],
+    "dsgnations":[
+
+    ],
+    "id":856
+  },
+  {
+    "name":"Ledges Trail",
+    "descriptn":"Ledges Trail is popular with hikers in all seasons. The unpaved loop features dramatic sandstone cliffs and vegetation characteristic of more northern climates. This route is hilly and has steps in places. There are several connections to other trails. Watch trail signs carefully to avoid getting lost. Built in the 1930s by the Civilian Conservation Corps, Ledges Shelter can be rented for a fee. The large playfield can be used for picnics, yard games, and beginning cross-country skiing. Nearby Ledges Overlook offers a scenic view of the Cuyahoga Valley that is especially lovely at sunset. Ice Box Cave is closed to protect roosting bats from a fatal fungal disease. ",
+    "segmentIds":[
+      2850,
+      2851,
+      3177
+    ],
+    "dsgnations":[
+
+    ],
+    "id":857
+  },
+  {
+    "name":"Ledges Trail",
+    "descriptn":"Visitors pass by a unique system of sandstone ledges, into Glacier Cave and to a wetland before traveling back to the trailhead over a long boardwalk. The ledges are covered by a \"living skin.\" Ferns, mosses and lichens grow here, and endangered bats and other species live in the area. For the protection of natural resources, please stay on the trail.",
+    "segmentIds":[
+      2850,
+      2851,
+      3177
+    ],
+    "dsgnations":[
+
+    ],
+    "id":395
+  },
+  {
+    "name":"Leonard Krieger CanalWay Center Connector Trail ",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":822
+  },
+  {
+    "name":"Lock 29 to Hunt Farm Towpath Buckeye Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3157,
+      3323
+    ],
+    "dsgnations":[
+
+    ],
+    "id":891
+  },
+  {
+    "name":"Meadow Loop Trail",
+    "descriptn":"The short Meadow Loop is a flat, easy trail in the Tallmadge Meadows Area that can be enjoyed by users with wheelchairs, walkers, canes and strollers.",
+    "segmentIds":[
+      2871
+    ],
+    "dsgnations":[
+
+    ],
+    "id":397
+  },
+  {
+    "name":"Meadow Trail",
+    "descriptn":"From the parking lot of the Tallmadge Meadows Area, the Meadow Trail passes by the County Home cemetery and travels through woods, a shrub thicket, wetland woods and its namesake meadow. Several boardwalks help visitors traverse the wet areas.",
+    "segmentIds":[
+      2874
+    ],
+    "dsgnations":[
+
+    ],
+    "id":398
+  },
+  {
+    "name":"Mingo Trail",
+    "descriptn":"The difficult Mingo Trail harbors a variety of wildlife and oak, beech and tulip trees. West of Shady Hollow Pavilion, the trail becomes quite rugged, earning Class D status.",
+    "segmentIds":[
+      2908
+    ],
+    "dsgnations":[
+
+    ],
+    "id":417
+  },
+  {
+    "name":"Nature Realm Trails",
+    "descriptn":"",
+    "segmentIds":[
+      2898
+    ],
+    "dsgnations":[
+
+    ],
+    "id":406
+  },
+  {
+    "name":"Neighborhood Connector",
+    "descriptn":"Connects the Tallmadge Meadows Area to neighborhoods west of Darrow Road (SR 91).  ",
+    "segmentIds":[
+      2875
+    ],
+    "dsgnations":[
+
+    ],
+    "id":400
+  },
+  {
+    "name":"Nursing Home Connector",
+    "descriptn":"Connects the Tallmadge Meadows Area to Heather Knoll Retirement Village.",
+    "segmentIds":[
+      2872
+    ],
+    "dsgnations":[
+
+    ],
+    "id":401
+  },
+  {
+    "name":"Oak Hill and Plateau Shared Sections",
+    "descriptn":null,
+    "segmentIds":[
+      3198,
+      3200,
+      3205
+    ],
+    "dsgnations":[
+
+    ],
+    "id":863
+  },
+  {
+    "name":"Oak Hill Trail",
+    "descriptn":"This loop trail is flat and unpaved. It leads past old farm fields, across streams, through planted pines and natural forest, and beside Sylvan Pond. During the warm months, watch for butterflies, birds, small mammals, dragonflies, frogs, and beaver. In winter, this is a great place to cross-country ski. Sylvan Pond is a popular place to fish, take photographs, and enjoy fall colors. ",
+    "segmentIds":[
+      3197,
+      3198,
+      3199,
+      3204,
+      3200,
+      3202,
+      3203,
+      3205
+    ],
+    "dsgnations":[
+
+    ],
+    "id":864
+  },
+  {
+    "name":"Ohio & Erie Canal Towpath Trail",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. ",
+    "segmentIds":[
+      3307,
+      3219,
+      3264,
+      3265,
+      3156,
+      3192,
+      3260,
+      3286,
+      3217,
+      3231,
+      3157,
+      3175,
+      3319,
+      3232,
+      3250,
+      3241,
+      3258,
+      3270,
+      3284,
+      3237,
+      3289,
+      3191,
+      3271,
+      3243,
+      3257,
+      3262,
+      3244,
+      3233,
+      3240,
+      3285,
+      3259,
+      3181,
+      3210,
+      3245,
+      3252,
+      3308,
+      3209,
+      3269,
+      3218,
+      3238,
+      3234,
+      3235,
+      3236,
+      3174,
+      3239,
+      3180,
+      3182,
+      3133,
+      3246,
+      3253,
+      3251,
+      3283,
+      3249,
+      3287,
+      3226,
+      3230,
+      3263,
+      3248,
+      3254,
+      3255,
+      3256,
+      3266,
+      3267,
+      3268,
+      3215,
+      3282,
+      3288,
+      3183,
+      3193,
+      3194,
+      3318,
+      3323,
+      3261,
+      3247,
+      3242
+    ],
+    "dsgnations":[
+
+    ],
+    "id":877
+  },
+  {
+    "name":"Old Carriage Trail",
+    "descriptn":"This hilly trail forms a C-shape on the eastern side of the Towpath Trail, between the Red Lock and Station Road Bridge trailheads. There is also local access from Holzhauer Road, but no parking lot. A steep, paved southern section called the Old Carriage Connector Trail links the Towpath Trail north of Red Lock with the Bike & Hike Trail via Holzhauer Road. This is a good choice for hikers and cross-country skiers looking for a workout.",
+    "segmentIds":[
+      3154
+    ],
+    "dsgnations":[
+
+    ],
+    "id":860
+  },
+  {
+    "name":"Old Carriage Trail Connector Trail",
+    "descriptn":"This steep, paved southern section of the Old Carriage Trail links the Towpath Trail north of Red Lock with the Bike & Hike Trail via Holzhauer Road. It’s a shared trail for hikers and cyclists, so use caution and pass to the left using an audible signal.",
+    "segmentIds":[
+      3314
+    ],
+    "dsgnations":[
+
+    ],
+    "id":861
+  },
+  {
+    "name":"Old Mill Trail",
+    "descriptn":"The trail takes hikers through beech-maple woods. Be sure to look for the Brush Family marker, which reads: \"To all those who love as he loved the far sky and smiling land.\"",
+    "segmentIds":[
+      2853
+    ],
+    "dsgnations":[
+
+    ],
+    "id":376
+  },
+  {
+    "name":"Overlook Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":370
+  },
+  {
+    "name":"Overlook Trail",
+    "descriptn":"The flat, easy Overlook Trail provides spectacular views of the Cuyahoga River, 125 feet below the Overlook Deck.",
+    "segmentIds":[
+      2895
+    ],
+    "dsgnations":[
+
+    ],
+    "id":367
+  },
+  {
+    "name":"Oxbow Trail",
+    "descriptn":"The moderate Oxbow Trail provides welcome refuge from the everyday hustle and bustle of urban life.",
+    "segmentIds":[
+      2892
+    ],
+    "dsgnations":[
+
+    ],
+    "id":368
+  },
+  {
+    "name":"Parcours Trail",
+    "descriptn":"For a good workout, try this challenging hiking trail with numbered exercise stations.",
+    "segmentIds":[
+      2877,
+      2903
+    ],
+    "dsgnations":[
+
+    ],
+    "id":388
+  },
+  {
+    "name":"Peninsula Depot and Lock 29 Connector",
+    "descriptn":null,
+    "segmentIds":[
+      3175
+    ],
+    "dsgnations":[
+
+    ],
+    "id":900
+  },
+  {
+    "name":"Perkins Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3163,
+      3164,
+      3165
+    ],
+    "dsgnations":[
+
+    ],
+    "id":409
+  },
+  {
+    "name":"Perkins Trail",
+    "descriptn":"Begin at the scenic Everett Road Covered Bridge. This natural surface loop trail runs up and down steep hills. The remote quiet of the valley’s forests and ravines is worth the effort. Connect with the Riding Run Trail for a longer loop. Horse trailer parking is available. Hikers must yield to horseback riders.",
+    "segmentIds":[
+      3163,
+      3164,
+      3165
+    ],
+    "dsgnations":[
+
+    ],
+    "id":869
+  },
+  {
+    "name":"Pheasant Run Trail",
+    "descriptn":"The easy Pheasant Run Trail winds through fields and woods and around small ponds.",
+    "segmentIds":[
+      2889
+    ],
+    "dsgnations":[
+
+    ],
+    "id":412
+  },
+  {
+    "name":"Pine Grove Connector Trail to Lake Trail",
+    "descriptn":"",
+    "segmentIds":[
+      3212
+    ],
+    "dsgnations":[
+
+    ],
+    "id":866
+  },
+  {
+    "name":"Pine Grove Trail",
+    "descriptn":"This unpaved loop trail winds and twists through a mature beech forest as well as pines planted during a 1930s reforestation effort. In places there are steep steps. The path begins and ends at the kiosk above the tiered Octagon parking lot. Built in the 1930s by the Civilian Conservation Corps, Octagon Shelter can be rented for a fee. The large grassy playfield can be used for picnics and yard games. ",
+    "segmentIds":[
+      3170
+    ],
+    "dsgnations":[
+
+    ],
+    "id":867
+  },
+  {
+    "name":"Piney Woods Trail",
+    "descriptn":"Although this trail is named for the many pines once planted in the park, they are giving way to a variety of other species through natural succession, including black cherries, oaks and tuliptrees.",
+    "segmentIds":[
+      2879
+    ],
+    "dsgnations":[
+
+    ],
+    "id":389
+  },
+  {
+    "name":"Plateau Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3197,
+      3196
+    ],
+    "dsgnations":[
+
+    ],
+    "id":865
+  },
+  {
+    "name":"Plateau Trail",
+    "descriptn":"This unpaved wooded trail is a longer, more challenging loop encircling the Oak Hill Trail. The trails connect in several places, offering options for hiking and cross-country skiing. A short spur trail leads to an overlook called Hemlock Point. Read trail signs carefully to avoid getting lost. Trails to Cuyahoga Valley Environmental Education Center are closed to the public to ensure student safety. ",
+    "segmentIds":[
+      3137,
+      3197,
+      3198,
+      3136,
+      3200,
+      3134,
+      3125,
+      3135,
+      3201,
+      3205,
+      3196,
+      3126
+    ],
+    "dsgnations":[
+
+    ],
+    "id":868
+  },
+  {
+    "name":"Prairie Trail",
+    "descriptn":"Though the prairie will take years to fully develop, the easy Prairie Trail leads visitors from the parking lot into what could become a birding hotspot in just a few years.",
+    "segmentIds":[
+      2848,
+      2876
+    ],
+    "dsgnations":[
+
+    ],
+    "id":411
+  },
+  {
+    "name":"Quarry Trail",
+    "descriptn":"Discarded mill stones are scattered along the moderate Quarry Trail, which takes visitors through the woods to an old quarry. You can also link to the Towpath Trail and take a short spur to the park's namesake, the deepest lock on the Ohio & Erie Canal.",
+    "segmentIds":[
+      2856
+    ],
+    "dsgnations":[
+
+    ],
+    "id":373
+  },
+  {
+    "name":"Redwing Trail",
+    "descriptn":"Redwing Trail is an easy loop footpath that connects to the Willow Trail.",
+    "segmentIds":[
+      2881
+    ],
+    "dsgnations":[
+
+    ],
+    "id":379
+  },
+  {
+    "name":"Riding Run Trail",
+    "descriptn":"Begin at the scenic Everett Road Covered Bridge. Cross the Everett Road extension into the woods. This natural surface loop trail runs up and down steep hills. Watch for daffodils in the spring and deer throughout the year. Connect with the Perkins Trail for a longer loop. Horse trailer parking is available. Hikers must yield to horseback riders.",
+    "segmentIds":[
+      3168,
+      3166,
+      3167
+    ],
+    "dsgnations":[
+
+    ],
+    "id":870
+  },
+  {
+    "name":"Riding Run Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3168,
+      3166,
+      3167
+    ],
+    "dsgnations":[
+
+    ],
+    "id":410
+  },
+  {
+    "name":"Rock Creek Trail",
+    "descriptn":"The picturesque Rock Creek Trail leads hikers on a shaded, basic trail through beautiful beech-maple woods.",
+    "segmentIds":[
+      2855
+    ],
+    "dsgnations":[
+
+    ],
+    "id":377
+  },
+  {
+    "name":"Rock & Herb Garden",
+    "descriptn":"An accessible section of the Seneca Trail travels through the Rock & Herb Garden.",
+    "segmentIds":[
+      2899
+    ],
+    "dsgnations":[
+
+    ],
+    "id":403
+  },
+  {
+    "name":"Rockside Station Connector to Lock 39",
+    "descriptn":null,
+    "segmentIds":[
+      3219
+    ],
+    "dsgnations":[
+
+    ],
+    "id":896
+  },
+  {
+    "name":"Salt Run Connector Trails",
+    "descriptn":null,
+    "segmentIds":[
+      3322
+    ],
+    "dsgnations":[
+
+    ],
+    "id":872
+  },
+  {
+    "name":"Salt Run Trail",
+    "descriptn":"By the large dam halfway around the Lake Trail, the unpaved Salt Run Trail branches off to the west in a figure 8. A short cut midway around the elongated loop allows for a shorter or longer hike. This hilly, wooded trail features stands of pine, oak, hickory, beech, and hemlock. Those looking for a greater challenge can combine this with the Lake and Cross Country trails.   ",
+    "segmentIds":[
+      3179
+    ],
+    "dsgnations":[
+
+    ],
+    "id":873
+  },
+  {
+    "name":"Schumacher Trail",
+    "descriptn":"The hilly Schumacher Trail provides a closer look at some of Summit County's most pristine scenery.",
+    "segmentIds":[
+      2896
+    ],
+    "dsgnations":[
+
+    ],
+    "id":371
+  },
+  {
+    "name":"Seneca Trail",
+    "descriptn":"Seneca Trail is a partly unpaved loop leading visitors past pines, a deciduous forest and through an open prairie. Portions of the trail may be considered strenuous due to hilly terrain.",
+    "segmentIds":[
+      2900
+    ],
+    "dsgnations":[
+
+    ],
+    "id":402
+  },
+  {
+    "name":"Six Mile Flats Loop Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3235
+    ],
+    "dsgnations":[
+
+    ],
+    "id":803
+  },
+  {
+    "name":"Spring Hollow Trail",
+    "descriptn":"One of the park district's most demanding hikes; forms a sort of figure eight with Adam Run Trail. Travels through ravines and over streams and includes a 30-foot bridge.",
+    "segmentIds":[
+      2868
+    ],
+    "dsgnations":[
+
+    ],
+    "id":392
+  },
+  {
+    "name":"Stanford Connector",
+    "descriptn":"This short trail is firm and flat. North of Boston Store Visitor Center, it links the Towpath Trail with the more rugged Stanford Trail and the Brandywine Gorge Trail beyond. The historic Stanford House provides overnight lodging.",
+    "segmentIds":[
+      3215
+    ],
+    "dsgnations":[
+
+    ],
+    "id":871
+  },
+  {
+    "name":"Stanford Trail",
+    "descriptn":"This unpaved trail links the historic Stanford House and nearby Towpath Trail to the west with Brandywine Falls to the east. It is challenging because of several steep sections. In places, American beech trees tower overhead. Daffodils planted by the former landowners grow among the spring wildflowers. A side trail to Averill Pond is a good place to see wildlife. Stanford House offers overnight lodging.",
+    "segmentIds":[
+      3221,
+      3132,
+      3216,
+      3127,
+      3220,
+      3215
+    ],
+    "dsgnations":[
+
+    ],
+    "id":874
+  },
+  {
+    "name":"Stanford Trail",
+    "descriptn":"This unpaved trail is challenging because of several steep sections. It begins at the historic Stanford House which offers overnight lodging. After running along an old farm field, the trail heads into the woods. American beech trees tower overhead. A side trail to Averill Pond is a good place to see wildlife. Daffodils planted by the former landowners still grow among the wildflowers in spring. This trail links the Towpath Trail and Brandywine Gorge Trail.",
+    "segmentIds":[
+      3221,
+      3132,
+      3216,
+      3127,
+      3220,
+      3215
+    ],
+    "dsgnations":[
+
+    ],
+    "id":427
+  },
+  {
+    "name":"Station Road Bridge Connector Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3180
+    ],
+    "dsgnations":[
+
+    ],
+    "id":899
+  },
+  {
+    "name":"Station Road Bridge to Red Lock",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Trees line both sides of the path, creating arched canopies of shade. Enjoy views of the Cuyahoga River. The Old Carriage Trail branches off to the east in two spots. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Brecksville Station. In the winter, this section is popular with cross-country skiers.",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":884
+  },
+  {
+    "name":"Station Road Bridge to Red Lock Buckeye Section",
+    "descriptn":null,
+    "segmentIds":[
+      3324,
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":816
+  },
+  {
+    "name":"Station Road Bridge to Red Lock Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":817
+  },
+  {
+    "name":"Station Road Bridge to Red Lock Valley Section",
+    "descriptn":null,
+    "segmentIds":[
+      3120,
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":826
+  },
+  {
+    "name":"Stream Restoration Trail",
+    "descriptn":"This trail takes you by the stream restoration project near Brushwood Lake.",
+    "segmentIds":[
+      2854
+    ],
+    "dsgnations":[
+
+    ],
+    "id":378
+  },
+  {
+    "name":"Sugarbush Trail",
+    "descriptn":"Sugarbush Trail loops through the city-run recreation area. The distance measured does not include the walk around the ballfield to the trailhead. For more information, please call the city of Twinsburg's Parks & Recreation Department at 330-963-8722.",
+    "segmentIds":[
+      2847
+    ],
+    "dsgnations":[
+
+    ],
+    "id":393
+  },
+  {
+    "name":"Tabletop Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3149
+    ],
+    "dsgnations":[
+
+    ],
+    "id":875
+  },
+  {
+    "name":"Tabletop Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3149
+    ],
+    "dsgnations":[
+
+    ],
+    "id":423
+  },
+  {
+    "name":"The Lower 40 Loop Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3231
+    ],
+    "dsgnations":[
+
+    ],
+    "id":802
+  },
+  {
+    "name":"Towpath Connector",
+    "descriptn":"Deep Lock Quarry Towpath Connector Trail connects to the Towpath Trail.",
+    "segmentIds":[
+      2857
+    ],
+    "dsgnations":[
+
+    ],
+    "id":374
+  },
+  {
+    "name":"Towpath Trail",
+    "descriptn":null,
+    "segmentIds":[
+      2859,
+      3265,
+      2909,
+      2910,
+      2911,
+      3241,
+      3258,
+      3270,
+      3271,
+      3257,
+      3240,
+      3252,
+      3269,
+      3238,
+      3239,
+      3253,
+      3251,
+      3254,
+      3255,
+      3256,
+      3268
+    ],
+    "dsgnations":[
+
+    ],
+    "id":915
+  },
+  {
+    "name":"Towpath Trail",
+    "descriptn":null,
+    "segmentIds":[
+      2859,
+      3265,
+      2909,
+      2910,
+      2911,
+      3241,
+      3258,
+      3270,
+      3271,
+      3257,
+      3240,
+      3252,
+      3269,
+      3238,
+      3239,
+      3253,
+      3251,
+      3254,
+      3255,
+      3256,
+      3268
+    ],
+    "dsgnations":[
+
+    ],
+    "id":419
+  },
+  {
+    "name":"Towpath Trail Bacci Park Aqueduct to West Canal Road",
+    "descriptn":null,
+    "segmentIds":[
+      3285
+    ],
+    "dsgnations":[
+
+    ],
+    "id":824
+  },
+  {
+    "name":"Towpath Trail Barberton to Wolf Creek",
+    "descriptn":null,
+    "segmentIds":[
+      3256
+    ],
+    "dsgnations":[
+
+    ],
+    "id":928
+  },
+  {
+    "name":"Towpath Trail Beech Street to Lock 3 Park",
+    "descriptn":null,
+    "segmentIds":[
+      3251
+    ],
+    "dsgnations":[
+
+    ],
+    "id":922
+  },
+  {
+    "name":"Towpath Trail Big Bend to Memorial Parkway",
+    "descriptn":null,
+    "segmentIds":[
+      3239
+    ],
+    "dsgnations":[
+
+    ],
+    "id":918
+  },
+  {
+    "name":"Towpath Trail Boston Store to Lock 29",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This section curves along the Cuyahoga River, connecting the villages of Boston and Peninsula. Walk under two impressive highway bridges that span the valley. Peninsula offers dining, unique shopping, and bicycle rentals. Use extra caution. This section can be congested. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Boston Mill Station and Peninsula Depot.",
+    "segmentIds":[
+      3192,
+      3319
+    ],
+    "dsgnations":[
+
+    ],
+    "id":886
+  },
+  {
+    "name":"Towpath Trail Botzum to Portage Path",
+    "descriptn":null,
+    "segmentIds":[
+      3238
+    ],
+    "dsgnations":[
+
+    ],
+    "id":916
+  },
+  {
+    "name":"Towpath Trail Canal Visitor Center to Fitzwater",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. In this section, stop at Canal Visitor Center to see exhibits and a reconstructed lock. Continue south over the Tinkers Creek Aqueduct and past historic Alexander’s Mill (now Wilson Feed Mill), built in 1855. During warm months, Bike Aboard! train service is available at Canal Visitor Center Station.",
+    "segmentIds":[
+      3183
+    ],
+    "dsgnations":[
+
+    ],
+    "id":879
+  },
+  {
+    "name":"Towpath Trail Clinton to Lake Lucerne",
+    "descriptn":null,
+    "segmentIds":[
+      3287
+    ],
+    "dsgnations":[
+
+    ],
+    "id":932
+  },
+  {
+    "name":"Towpath Trail Clinton to Lake Lucerne (MPSSC)",
+    "descriptn":null,
+    "segmentIds":[
+      3287
+    ],
+    "dsgnations":[
+
+    ],
+    "id":933
+  },
+  {
+    "name":"Towpath Trail Fitzwater to Frazee House",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Built around 1825, the Frazee is one of the oldest houses in the Cuyahoga Valley.",
+    "segmentIds":[
+      3289
+    ],
+    "dsgnations":[
+
+    ],
+    "id":880
+  },
+  {
+    "name":"Towpath Trail Franklin to Clinton",
+    "descriptn":null,
+    "segmentIds":[
+      3257
+    ],
+    "dsgnations":[
+
+    ],
+    "id":931
+  },
+  {
+    "name":"Towpath Trail Frazee House to Station Road Bridge",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This section follows the only watered section of the canal within the national park. It passes under the scenic SR 82 bridge. Use extra caution just south of the Frazee House. There is a short water crossing with a fall-hazard and no guard rails. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. All must yield to horseback riders. During warm months, Bike Aboard! train service is available at Brecksville Station.",
+    "segmentIds":[
+      3307
+    ],
+    "dsgnations":[
+
+    ],
+    "id":881
+  },
+  {
+    "name":"Towpath Trail Harvard Road to Leonard Krieger CanalWay Center",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":821
+  },
+  {
+    "name":"Towpath Trail Hunt Farm to Ira",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This is a popular section for wildlife watching. Look for beaver, muskrat, otter, waterfowl, songbirds, snakes, and turtles. Linger along the boardwalk across the Beaver Marsh. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Indigo Lake Station. Access the station using the Hale Farm Trail or continue to Hale Farm & Village.",
+    "segmentIds":[
+      3133
+    ],
+    "dsgnations":[
+
+    ],
+    "id":892
+  },
+  {
+    "name":"Towpath Trail Ira to Botzum",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Much of this section hugs Riverview Road. Stop for traffic at the two road crossings. Little remains of the canal here, except the ruins of Locks 25 and 24. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Botzum Station.",
+    "segmentIds":[
+      3191,
+      3193,
+      3194
+    ],
+    "dsgnations":[
+
+    ],
+    "id":895
+  },
+  {
+    "name":"Towpath Trail Leonard Krieger CanalWay Center To Bacci Park Aqueduct",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":823
+  },
+  {
+    "name":"Towpath Trail Lock 29 to Hunt Farm ",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. Use extra caution in the Lock 29 area. It can be congested. The trail becomes steep and narrow as it climbs the height of the lock and over the Cuyahoga River. At Lock 28, called Deep Lock, you can take a connector trail to explore Deep Lock Quarry Metro Park. Bring your binoculars in the spring for bird watching. Hunt Farm is in the historic village of Everett and provides basic visitor services. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Peninsula Depot.",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":890
+  },
+  {
+    "name":"Towpath Trail Lock 39 to Canal Visitor Center",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This leg takes you to Lock 38 and the Canal Visitor Center. It follows the only watered section of the canal within the national park. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Rockside and Canal Visitor Center stations.",
+    "segmentIds":[
+      3218
+    ],
+    "dsgnations":[
+
+    ],
+    "id":878
+  },
+  {
+    "name":"Towpath Trail Lock 3 Park to Richard Howe House",
+    "descriptn":null,
+    "segmentIds":[
+      3270,
+      3271,
+      3269
+    ],
+    "dsgnations":[
+
+    ],
+    "id":923
+  },
+  {
+    "name":"Towpath Trail Manchester Road to Barberton",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":927
+  },
+  {
+    "name":"Towpath Trail Memorial Parkway to Mustill Store",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":919
+  },
+  {
+    "name":"Towpath Trail Mustill Store To Beech Street ",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":920
+  },
+  {
+    "name":"Towpath Trail Portage Path to Big Bend",
+    "descriptn":null,
+    "segmentIds":[
+      3240
+    ],
+    "dsgnations":[
+
+    ],
+    "id":917
+  },
+  {
+    "name":"Towpath Trail Red Lock to Boston Store",
+    "descriptn":"Mules once towed canal boats along the 110-mile Ohio & Erie Canal Towpath Trail. The trail is firm and level. This section passes the site of the Jaite Paper Mill. A connector trail branches off to Stanford House and trails beyond. Stop at Boston Store Visitor Center for trip planning and exhibits. Next door, the historic M.D. Garage offers free art exhibits on weekends from late April through October. To stay safe, keep to the right. Cyclists, please pass on the left and give an audible signal. During warm months, Bike Aboard! train service is available at Boston Mill Station.",
+    "segmentIds":[
+      3156,
+      3181,
+      3182
+    ],
+    "dsgnations":[
+
+    ],
+    "id":885
+  },
+  {
+    "name":"Towpath Trail Richard Howe House to Summit Lake",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":924
+  },
+  {
+    "name":"Towpath Trail Steelyard Commons to Harvard Road",
+    "descriptn":null,
+    "segmentIds":[
+      3233,
+      3234,
+      3282
+    ],
+    "dsgnations":[
+
+    ],
+    "id":820
+  },
+  {
+    "name":"Towpath Trail Summit Lake Park to Wilbeth Road",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":925
+  },
+  {
+    "name":"Towpath Trail Vanderhoof Road to Franklin",
+    "descriptn":null,
+    "segmentIds":[
+      3258
+    ],
+    "dsgnations":[
+
+    ],
+    "id":930
+  },
+  {
+    "name":"Towpath Trail West Canal Road to Lock 39",
+    "descriptn":null,
+    "segmentIds":[
+      3237
+    ],
+    "dsgnations":[
+
+    ],
+    "id":825
+  },
+  {
+    "name":"Towpath Trail Wilbeth Road to Manchester Road",
+    "descriptn":null,
+    "segmentIds":[
+      3255
+    ],
+    "dsgnations":[
+
+    ],
+    "id":926
+  },
+  {
+    "name":"Towpath Trail Wolf Creek to Vanderhoof Road",
+    "descriptn":null,
+    "segmentIds":[
+      3268
+    ],
+    "dsgnations":[
+
+    ],
+    "id":929
+  },
+  {
+    "name":"Tree Farm Trail",
+    "descriptn":"This unpaved loop trail starts near Horseshoe Pond and gently rolls through fields and forests. The property was once part of what is now Heritage Farms in Peninsula. Notice the rows of overgrown Christmas trees. The mixed habitats support a variety of wildlife, making the trail popular with birdwatchers. A bench with a pleasant view is available at the halfway point. From the parking lot, the short Horseshoe Pond Trail provides access to a wheelchair-accessible fishing pier and a picnic pavilion. In winter, this is a great place for cross-country skiers who can handle hills.",
+    "segmentIds":[
+      3158
+    ],
+    "dsgnations":[
+
+    ],
+    "id":876
+  },
+  {
+    "name":"Valley and Langes Run Shared Sections",
+    "descriptn":null,
+    "segmentIds":[
+      3187
+    ],
+    "dsgnations":[
+
+    ],
+    "id":901
+  },
+  {
+    "name":"Valley and Wetmore Shared Section",
+    "descriptn":null,
+    "segmentIds":[
+      3122,
+      3121
+    ],
+    "dsgnations":[
+
+    ],
+    "id":911
+  },
+  {
+    "name":"Valley Bridle Trail",
+    "descriptn":null,
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":408
+  },
+  {
+    "name":"Valley Link Trail",
+    "descriptn":"The moderate Valley Link Trail connect Sand Run Metro Park and Cascade Valley Metro Park / North.",
+    "segmentIds":[
+      2897,
+      2905
+    ],
+    "dsgnations":[
+
+    ],
+    "id":372
+  },
+  {
+    "name":"Valley Trail",
+    "descriptn":null,
+    "segmentIds":[
+      3311,
+      3192,
+      3120,
+      3122,
+      3155,
+      3308,
+      3172,
+      3214,
+      3187,
+      3171,
+      3138,
+      3195,
+      3213,
+      3215,
+      3323,
+      3208,
+      3121,
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":426
+  },
+  {
+    "name":"Valley Trail",
+    "descriptn":"Valley Trail winds through the Cuyahoga Valley, connecting Cuyahoga Valley National Park bridle trails in the south with Cleveland Metroparks bridle trails in the north. Hikers must yield to horseback riders. On this site, you can explore the trail by section.",
+    "segmentIds":[
+      3311,
+      3192,
+      3120,
+      3122,
+      3155,
+      3308,
+      3172,
+      3214,
+      3187,
+      3171,
+      3138,
+      3195,
+      3213,
+      3215,
+      3323,
+      3208,
+      3121,
+      3313
+    ],
+    "dsgnations":[
+
+    ],
+    "id":902
+  },
+  {
+    "name":"Valley Trail between Boston and Pine Lane",
+    "descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks trails in the north. This section travels between Boston Store Visitor Center, along to Pine Lane. Park horse trailers permitted in the overflow lot for Boston Store Visitor Center. All trail users must yield to horseback riders.",
+    "segmentIds":[
+      3213
+    ],
+    "dsgnations":[
+
+    ],
+    "id":906
+  },
+  {
+    "name":"Valley Trail between Frazee House and Station Road Bridge",
+    "descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks bridle trails in the north. This section follows the Ohio & Erie Canal Towpath Trail along the Pinnery Narrows. Station Bridge Road Trailhead has pull-through parking spaces for horse trailers. Frazee House has no trailer parking. ",
+    "segmentIds":[
+      3155
+    ],
+    "dsgnations":[
+
+    ],
+    "id":903
+  },
+  {
+    "name":"Valley Trail between Red Lock and Boston",
+    "descriptn":null,
+    "segmentIds":[
+      3172
+    ],
+    "dsgnations":[
+
+    ],
+    "id":905
+  },
+  {
+    "name":"Valley Trail between Red Lock and Station Road Bridge",
+    "descriptn":null,
+    "segmentIds":[
+      3171
+    ],
+    "dsgnations":[
+
+    ],
+    "id":904
+  },
+  {
+    "name":"Valley Trail Hunt Farm to Everett Covered Bridge",
+    "descriptn":null,
+    "segmentIds":[
+      3323,
+      3208
+    ],
+    "dsgnations":[
+
+    ],
+    "id":910
+  },
+  {
+    "name":"Valley Trail Pine Lane to Wetmore",
+    "descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks trails in the north. This section travels between Pine Lane Trailhead, crossing over Route 303, along the Cuyahoga River and entry into the Wetmore trail system. Use extra caution at road crossings. Horse trailer parking available at Wetmore Trailhead. All trail users must yield to horseback riders.",
+    "segmentIds":[
+      3195
+    ],
+    "dsgnations":[
+
+    ],
+    "id":908
+  },
+  {
+    "name":"Valley Trail Wetmore to Hunt Farm",
+    "descriptn":"Valley Bridle Trail winds through the Cuyahoga Valley, connecting CVNP bridle trails in the south with Cleveland Metroparks bridle trails in the north. This section travels between the Wetmore Trail system, through the bottomlands of the Cuyahoga River Valley to Hunt Farm and onto the Everett Covered Bridge near Everett Road.  It is mostly flat and travels beside farm fields. ",
+    "segmentIds":[
+      3187,
+      3138
+    ],
+    "dsgnations":[
+
+    ],
+    "id":909
+  },
+  {
+    "name":"Walking Trail",
+    "descriptn":"The easy Walking Course is a favorite among seniors and young families. It passes the Tuscarawas Race and connects to Willow Trail.",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":380
+  },
+  {
+    "name":"Weaver School Connector Trail",
+    "descriptn":"Connects the Tallmadge Meadows Area to Weaver School.",
+    "segmentIds":[
+
+    ],
+    "dsgnations":[
+
+    ],
+    "id":399
+  },
+  {
+    "name":"Wetmore Trail",
+    "descriptn":"In addition to 14 developed parks and more than 125 miles of trails, Metro Parks manages several conservation areas for the purpose of preserving Summit County’s natural resources. In 1974, the National Park Service acquired thousands of acres that were managed by Metro Parks, including Virginia Kendall Park. Despite this acquisition, Metro Parks retained 572 wooded acres – today’s Wetmore Conservation Area. It includes great forests, steep ravines and high-quality stream corridors. The land is accessible via bridle trails maintained by Cuyahoga Valley National Park.",
+    "segmentIds":[
+      3141,
+      3139,
+      3140,
+      3142,
+      3144,
+      3122,
+      3145,
+      3173,
+      3146,
+      3148,
+      3147,
+      3143,
+      3121
+    ],
+    "dsgnations":[
+
+    ],
+    "id":422
+  },
+  {
+    "name":"Wetmore Trail",
+    "descriptn":"Enjoy wildflowers deep woods, clear creeks, and solitude. Wetmore Trail is a loop trail that offers a variety of terrain on the trail. Watch trail signs and respect trail closures. Link to Langes Run and Butler trails for a longer ride. Horse trailer parking is available. Hikers must yield to horseback riders.",
+    "segmentIds":[
+      3141,
+      3139,
+      3140,
+      3142,
+      3144,
+      3122,
+      3145,
+      3173,
+      3146,
+      3148,
+      3147,
+      3143,
+      3121
+    ],
+    "dsgnations":[
+
+    ],
+    "id":912
+  },
+  {
+    "name":"Willow Trail",
+    "descriptn":"Willow Trail passes the Tuscarawas Race, Tuscarawas River and Little Turtle Pond, where young anglers 15 and under can fish.",
+    "segmentIds":[
+      2882
+    ],
+    "dsgnations":[
+
+    ],
+    "id":381
+  },
+  {
+    "name":"Wood Hollow Trail",
+    "descriptn":"NOTE: Not yet open to the public. Wood Hollow's trail will travel past forests and wetlands.",
+    "segmentIds":[
+      2858
+    ],
+    "dsgnations":[
+
+    ],
+    "id":420
+  }
+]

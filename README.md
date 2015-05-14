@@ -7,7 +7,7 @@ A mock trails server for the Summit County mobile trail application
 Clone the GitHub repository:
 
 ```
-git clone git@github.com:rclosner/trails-server ./trails-server
+git clone git@github.com:lovehandle/trails-server ./trails-server
 ```
 
 Install the dependencies:
